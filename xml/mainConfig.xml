@@ -1,0 +1,42 @@
+<mainConfig>
+<countryResolverURL>
+<![CDATA[
+http://tredir.go.com/capmon/GetDE/?set=j&param=connection&param=metrocode&param=domain&param=country
+]]>
+</countryResolverURL>
+<!--
+<countryResolverURL>xml/tmpdata/country.txt</countryResolverURL>
+-->
+<feedsByCountryURL>xml/feedsByCountry.xml</feedsByCountryURL>
+<xmls>
+<file id="texts">xml/texts.xml</file>
+<file id="config">xml/config.xml</file>
+<file id="shows">xml/shows.xml</file>
+<file id="featured">xml/featured.xml</file>
+<file id="games">xml/games.xml</file>
+<file id="genres">xml/gameGenres.xml</file>
+<file id="downloadTypes">xml/downloadTypes.xml</file>
+<file id="mobileTypes">xml/mobileTypes.xml</file>
+<file id="ctrlx">xml/ctrlx.xml</file>
+</xmls>
+<gui>
+<file id="mainMenuLibs">swf/mainMenuFlaLib.swf</file>
+<file id="bottomScheduleLibs">swf/programacion.swf</file>
+<file id="homeXDLibs">swf/homeXDFlaLib.swf</file>
+<file id="homePromosLibs">swf/homePromosFlaLibs.swf</file>
+<file id="homeBannerLibs">swf/homeBannerBottomFlaLib.swf</file>
+<file id="homeHudLibs">swf/homeHudFlaLibs.swf</file>
+<file id="homeVideoLibs">swf/homeVideo.swf</file>
+<file id="showsScrollLibs">swf/showScrollFlaLib.swf</file>
+<file id="showsMainLibs">swf/showsMain.swf</file>
+<file id="showPlayerLibs">swf/showPlayer.swf</file>
+<file id="homeGameFilterLibs">swf/gameFilterFlaLib.swf</file>
+<file id="gamesMainLibs">swf/gamesMain.swf</file>
+<file id="gameFilterLibs">swf/gameFilter.swf</file>
+<file id="gamePlayerLibs">swf/gamePlayer.swf</file>
+<file id="controlX">swf/controlX.swf</file>
+<file id="scheduleFlaLibs">swf/completeSchedule.swf</file>
+<file id="contestMainLibs">swf/contestMain.swf</file>
+</gui>
+<lang>es</lang>
+</mainConfig>

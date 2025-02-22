@@ -1,0 +1,36 @@
+<feeds>
+<feed id="North" feedID4CompleteSchedule="3" qtcCookieZone="NOR">
+<country id="mexico" code3digits="MEX"/>
+</feed>
+<feed id="Multi" feedID4CompleteSchedule="4" qtcCookieZone="MC">
+<country id="caribe" code3digits="PCA"/>
+<country id="colombia" code3digits="COL"/>
+<country id="costa rica" code3digits="C_R"/>
+<country id="republica dominicana" code3digits="R_D"/>
+<country id="el salvador" code3digits="SAL"/>
+<country id="guatemala" code3digits="GUA"/>
+<country id="honduras" code3digits="HON"/>
+<country id="panama" code3digits="PAN"/>
+<country id="nicaragua" code3digits="NIC"/>
+<country id="venezuela" code3digits="VEN"/>
+</feed>
+<feed id="South" feedID4CompleteSchedule="1" qtcCookieZone="SUR">
+<country id="argentina" code3digits="ARG" default="true"/>
+<country id="bolivia" code3digits="BOL"/>
+<country id="paraguay" code3digits="PAR"/>
+<country id="peru" code3digits="PER"/>
+<country id="uruguay" code3digits="URU"/>
+<country id="ecuador" code3digits="ECU"/>
+</feed>
+<feed id="Pacific" feedID4CompleteSchedule="5" qtcCookieZone="PCF">
+<country id="chile" code3digits="CHI"/>
+<country id="pacific" code3digits="PAC"/>
+</feed>
+<!--
+
+	<feed id="Brasil" redirectURL="http://www.disney.com/Redireccionado_porque_corresponde_a_otro_feed">
+		<country id="brazil"/>
+	</feed>
+	
+-->
+</feeds>
