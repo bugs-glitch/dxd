@@ -1,0 +1,88 @@
+<controlX>
+<controller>
+<item code="title">espanol</item>
+<item code="vote">
+<![CDATA[
+<font size="14">¿QUIÉN ES TU SUPERHÉROE MARVEL FAVORITO?</font> <font color="#F5FF41"></font></font>
+]]>
+</item>
+<item code="novote">
+<![CDATA[
+<font size="14" color="#FFFFFF">YA HAS VOTADO.</font> <font color="#F5FF41">¡GRACIAS!</font> <br> <font size="11" color="#FFF8C6">Porcentajes parciales de la votación online:</font>
+]]>
+</item>
+<item code="closed">
+<![CDATA[
+<font size="13">¡GRACIAS POR VOTAR!<font color="#F5FF41"> EL 19 DE AGOSTO EN CONTROL-X </font><br> <font color="#F5FF41">CONOCERÁS AL SUPERHÉROE MARVEL FAVORITO DE DISNEY XD.</font></font>
+]]>
+</item>
+<item code="rightTitle">
+<![CDATA[ VOTA ]]>
+</item>
+<item code="rightText">
+<![CDATA[
+<font color="#FFFFFF">¡VOTA AQUÍ</font> <font color="#FFFFFF">Y ENTÉRATE</font> <font color="#FFFFFF">DE LOS</font> <font color="#FFFFFF">RESULTADOS</font> <font color="#FFFFFF"></font>
+]]>
+MIRANDO XD!
+</item>
+<item code="winner">
+<![CDATA[ KICK Y GUNTHER ]]>
+</item>
+<!--
+ Imagen del ganador (carga al costado) Resolucion recomendada: 90x160 con fondo transparente 
+-->
+<item code="winnerURL"/>
+</controller>
+<items>
+<item ID="1">
+<!--
+ El id es lo que luego sera enviado al cgi para indicar el voto. 
+-->
+<name>SPIDER-MAN</name>
+<previewAsset>ctrlx/images/spiderman.jpg</previewAsset>
+<videoURL/>
+<sms/>
+</item>
+<item ID="2">
+<!--
+ El id es lo que luego sera enviado al cgi para indicar el voto. 
+-->
+<name>THOR (THE AVENGERS)</name>
+<previewAsset>ctrlx/images/thor.jpg</previewAsset>
+<videoURL/>
+<sms/>
+</item>
+<item ID="3">
+<!--
+ El id es lo que luego sera enviado al cgi para indicar el voto. 
+-->
+<name>HULK (THE SUPER HERO SQUAD SHOW)</name>
+<previewAsset>ctrlx/images/hulk.jpg</previewAsset>
+<videoURL/>
+<sms/>
+</item>
+</items>
+<status>
+<!--
+Aquí se envía la descripción del estado de la votación: "open" si se puede votar, "closed" si ya terminó y "next" para mostrar la próxima votación
+-->
+<description>closed</description>
+</status>
+<config>
+<requestConcursoURL>
+<![CDATA[
+/disneyxd/controlx/cgi-bin/votar.cgi?rnd=${random}&pais=${pais}&opcion=0
+]]>
+</requestConcursoURL>
+<voteURL>
+<![CDATA[
+/disneyxd/controlx/cgi-bin/votar.cgi?pais=${pais}&opcion=${itemid}
+]]>
+</voteURL>
+<voteResults>
+<![CDATA[
+/disneyxd/controlx/cgi-bin/ver_resultados.cgi?rnd=${random}&pais=${pais}
+]]>
+</voteResults>
+</config>
+</controlX>
