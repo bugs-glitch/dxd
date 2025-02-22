@@ -1,0 +1,246 @@
+a
+{
+	color: #ffffff;
+}
+
+body
+{
+	margin:0; padding:0; border:0;
+	/*background-color: #959696;*/
+	background-color: #386103;
+
+}
+
+#site_topContainer
+{
+	/*border-color : #ffff00;
+	border-style:solid;
+	border-width:2px;*/
+
+	width: 1000px;
+	margin: 10px auto 0;
+	height: 90px;
+
+	/*ADD */
+	position: relative;
+}
+
+#site_mainContainer
+{
+	/*position: absolute;
+	z-index: -1000;
+	width: 1000px;
+	margin: 50px 10.5% 0;*/
+
+	position: relative;
+	width: 1000px;
+	margin: 70px auto;
+}
+
+#site_superbanner
+{
+	/*border-color : #ff00ff;
+	border-style:solid;
+	border-width:2px;*/
+
+	overflow: hidden;
+
+	position: absolute;
+
+	text-align: center;
+
+	margin-top: 8px ;
+	margin-left: 13% ;
+
+	z-index: 100;
+	width: 742px;
+	height: 90px;
+	padding-top: 0px;
+	padding-left: 14px;
+	background-repeat: no-repeat;
+}
+
+
+#site_synergy
+{
+	/*border-color : #ff00ff;
+	border-style:solid;
+	border-width:2px;*/
+
+	position: absolute;
+	text-align: center;
+	width: 630px;
+	margin-top: 105px ;
+	margin-left: 13% ;
+}
+
+#site_footer
+{
+
+	/*position: absolute;
+	margin-top: 900px ;
+	margin-left: 18% ;
+	text-align: center;*/
+
+	position: relative;
+	text-align: center;
+}
+
+
+#absolute_inner
+{
+	position: absolute;
+}
+
+#absolute_inner_boxad
+{
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	padding-top: 0px;
+	padding-right: 14px;
+	background-repeat: no-repeat;
+}
+#AdBoxMiddle{
+	position:relative;
+	top: -377px;
+	left: 483px;
+	height:10px;
+
+}
+#videossection_admotion
+{
+	position: relative;
+	top: 60px;
+	left: 176px;
+	width: 850px;
+}
+
+
+#home_boxad
+{
+	position: relative;
+	top: 440px;
+	left: 800px;
+	width: 320px;
+}
+
+#videosection_boxad
+{
+	position: relative;
+	top: 445px;
+	left: 690px;
+	width: 320px;
+}
+
+#ctrlx_boxad
+{
+	position: relative;
+	top: 140px;
+	left: 850px;
+	width: 320px;
+}
+
+#gamessection_boxad
+{
+	position: relative;
+	top: 440px;
+	left: 700px;
+	width: 320px;
+}
+
+#gamepage_boxad
+{
+	position: relative;
+	top: 700px;
+	left: 700px;
+	width: 320px;
+}
+
+#showssection_boxad
+{
+	position: relative;
+	top: 420px;
+	left: 670px;
+	width: 320px;
+}
+
+#showpage_boxad
+{
+	position: relative;
+	top: 420px;
+	left: 670px;
+	width: 320px;
+}
+
+#showpage_layerad
+{
+	position: absolute;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+}
+
+#contestsection_boxad
+{
+	position: relative;
+	top: 530px;
+	left: 670px;
+	width: 320px;
+}
+
+#contestsection_layerad
+{
+	position: absolute;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+}
+
+#gamessection_layerad
+{
+	position: absolute;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+}
+
+#gamepage_layerad
+{
+	position: absolute;
+	z-index: 100;
+	top: 0px;
+	left: 0px;
+}
+
+#xd_game_frame
+{
+	width: 750px;
+	height: 500px;
+	border: 0px;
+}
+
+#xd_game_int
+{
+	position: relative;
+	top: 125px;
+	left: 199px;
+}
+
+
+
+#xd_swf_error {
+	color: #FFF;
+	padding-top: 150px;
+	height: 400px;
+	text-align: center;
+	font-family:verdana,helvetica;
+	font-size: 11px;
+}
+
+#xd_swf_error_text {
+	padding: 16px;
+	background-image: url(images/test_flash.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+}
