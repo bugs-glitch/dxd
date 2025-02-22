@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shows>
+	<show ID="54" scheduleID="0" code="Lab_Rats" order="0" >
+		<showPage><![CDATA[series/lab_rats/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Lab Rats, los sábados y domingos a las 21:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_54_8dbb.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_54_9aa7.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_54_605f.swf]]></welcomeAnimation>
+		<name><![CDATA[Lab Rats]]></name>
+		<description><![CDATA[Luego de atravesar accidentalmente un panel de alta tecnología que lo envía a un secreto laboratorio subterráneo, Leo descubre a tres adolescentes superhumanos - Adam, el fuerte; Bree, la más veloz; y Chase, el inteligente. Ansiosos por abandonar su guarida, los tres convencen a Leo de que los lleve con él a la escuela, donde intentarán pasar como estudiantes normales, mientras controlan sus poderes biónicos. En el camino, ayudarán a Leo a fortalecer su autoconfianza y a  encontrar la manera de mantener sus habilidades biónicas en secreto.
+]]></description>
+		<games>
+			<game ID="119" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Leo]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_254_af43.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_254_1b2a.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Chase]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_255_94ac.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_255_8d9b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Bree]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_256_189a.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_256_93ad.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Adam]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_257_66c9.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_257_9cd2.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Eddy]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_258_4f77.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_258_d740.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Sr Davenport]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_259_c58a.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_259_46b4.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="55" scheduleID="" code="Pok_y_Mok" order="0" >
+		<showPage><![CDATA[series/pok_y_mok/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Pok y Mok, de lunes a viernes a las 21:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_55_c83f.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_55_1c65.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_55_fe40.swf]]></welcomeAnimation>
+		<name><![CDATA[Pok y Mok]]></name>
+		<description><![CDATA[¿Qué obtienes cuando unes a un niño con una especie de mono llamada gibón? ¡Las historias más divertidas! Mok es un niño de 8 años y Pok es su mascota. Junto a los padres de Mok, viven cómicas aventuras y hacen eco-descubrimientos que los sorprenderán. 		
+]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Mok]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_260_1e14.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_260_9ca9.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Pok]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_261_a794.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_261_a8eb.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Camile]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_262_a3cd.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_262_79f2.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Penélope]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_263_d243.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_263_950f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Ernest]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_264_7fdb.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_264_9eff.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Abuela]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_265_78ae.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_265_ff5b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Abuelo]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_266_75f4.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_266_97b1.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="47" scheduleID="0" code="Los_guerreros_Wasabi		" order="1" >
+		<showPage><![CDATA[series/los_guerreros_wasabi/]]></showPage>
+		<tuneIn><![CDATA[Mira Los guerreros Wasabi, los sábados y domingos a las 13:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_47_db8f.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_47_bb79.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_47_7417.swf]]></welcomeAnimation>
+		<name><![CDATA[Los guerreros Wasabi		]]></name>
+		<description><![CDATA[En la Academia de Artes Marciales Bobby Wasabi, un grupo de adorables inadaptados se esfuerza por ganar cinturones negros en aceptación, lealtad, amistad y aventura. Ubicada en un decadente centro comercial y dirigida por el Sensei Rudy, esta sede de la cadena nacional de academias es la peor de todas y corre peligro de extinción. Sin embargo, todo cambia cuando Jack, un talentoso skater, irrumpe en la escuela y se convierte en el candidato ideal para restaurar la gloria perdida de Bobby Wasabi y vencer a El Dragón Negro, la escuela rival ubicada en un lujoso centro comercial. ]]></description>
+		<games>
+			<game ID="112" />
+			<game ID="104" />
+			<game ID="102" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Jack]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_221_a9ea.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_221_f87f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Jerry]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_222_c07a.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_222_efb8.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Kim ]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_223_4659.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_223_baa6.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Eddie]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_224_0ca2.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_224_fd09.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Sensei Rudy]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_225_5d94.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_225_7743.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Milton]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_226_574a.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_226_c07d.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="37" scheduleID="4" code="kick_buttowski" order="2" >
+		<showPage><![CDATA[series/kick_buttowski/]]></showPage>
+		<tuneIn><![CDATA[Mira Kick Buttowski los sábados y domingos a las 10:30 y 20:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_37_123a.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_37_4b21.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_37_77d8.swf]]></welcomeAnimation>
+		<name><![CDATA[Kick Buttowski Medio Doble de Riesgo]]></name>
+		<description><![CDATA[Kick Buttowski: Medio doble de riesgo, relata las andanzas de Kick, un chico fuera de lo común que vive en la ciudad más normal del mundo. Se rebela contra lo mundano y lucha para que cada momento sea más apasionante.]]></description>
+		<games>
+			<game ID="120" />
+			<game ID="61" />
+			<game ID="107" />
+			<game ID="84" />
+			<game ID="93" />
+			<game ID="73" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Kick Buttowski]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_176_50b2.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_176_cd69.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Gunther]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_178_8279.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_178_a3d1.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Brianna]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_177_0842.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_177_0621.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Brad]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_179_e5e4.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_179_0cfc.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Mamá y papá]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_180_6faa.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_180_3f71.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Billy]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_181_6bd0.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_181_fdf3.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Vickle]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_182_0290.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_182_c557.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/2/image_277_3b7a.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_278_6cfe.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_279_a29b.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_280_7087.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_281_65b8.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_282_7779.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="2" >
+				<name><![CDATA[Kick Buttowski]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_165_3094.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/1/file1_165_6df7.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/1/file2_165_b9ab.gif]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Kick Buttowski]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_166_0dc0.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/file1_166_28bc.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/file2_166_39e4.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="5" >
+				<name><![CDATA[Kick Buttowski]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_171_8357.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[PC]]></name>
+						<link><![CDATA[dynassets/download/1/ss_la_kickbuttowski_pc.zip]]></link>
+					</file>
+					<file>
+						<name><![CDATA[MAC]]></name>
+						<link><![CDATA[dynassets/download/1/ss_la_kickbuttowski_mac.app.zip]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Gunther]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_167_09a3.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/file1_167_5c87.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/file2_167_b499.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Brad]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_168_18b2.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/file1_168_40fe.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/file2_168_cdfa.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="52" scheduleID="" code="Ultimate_Spiderman" order="3" >
+		<showPage><![CDATA[marveluniverse/series/ultimate_spiderman/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Ultimate Spider Man, los sábados y domingos a las 9:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_52_4077.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_52_8c69.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[Ultimate Spiderman ]]></name>
+		<description><![CDATA[ultimate spiderman ]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="6" scheduleID="3" code="phineasyferb" order="4" >
+		<showPage><![CDATA[series/phineasyferb/]]></showPage>
+		<tuneIn><![CDATA[Mira dos episodios seguidos de Phineas & Ferb los sábados y domingos a las 11:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_6_90de.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_6_ece1.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_6_624f.swf]]></welcomeAnimation>
+		<name><![CDATA[Phineas y Ferb]]></name>
+		<description><![CDATA[Phineas y Ferb quieren hacer cada día de sus vacaciones de verano ¡espectaculares! Idean imaginativas creaciones, mientras la celosa hermana mayor, Candance, intenta meterlos en problemas. ]]></description>
+		<games>
+			<game ID="113" />
+			<game ID="105" />
+			<game ID="100" />
+			<game ID="44" />
+			<game ID="25" />
+			<game ID="6" />
+			<game ID="46" />
+			<game ID="38" />
+			<game ID="67" />
+			<game ID="89" />
+			<game ID="71" />
+			<game ID="101" />
+			<game ID="103" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Phineas]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_21_f0fd.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_21_a021.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Ferb]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_22_51a2.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_22_5b9f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Candace]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_23_7956.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_23_36f5.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Perry]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_24_8a28.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_24_18b6.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Dr. Doof]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_25_7119.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_25_17ea.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/0/image_7_982e.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_8_ff36.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_9_2a2d.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_10_ade3.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_11_23a7.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_12_fed3.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[Phineas y Ferb]]></name>
+				<description><![CDATA[Phineas y Ferb]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_10_7d32.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_10_e7fe.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/0/file2_10_c881.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Phineas]]></name>
+				<description><![CDATA[Phineas]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_14_fdea.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_14_6c44.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_14_be71.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Phineas y Ferb]]></name>
+				<description><![CDATA[Phineas y Ferb]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_11_fb6b.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_11_a471.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/0/file2_11_ac50.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Ferb]]></name>
+				<description><![CDATA[Ferb]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_16_1894.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_16_bffc.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_16_fb77.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Perry]]></name>
+				<description><![CDATA[Perry]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_18_308c.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_18_77cb.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_18_bade.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Candace]]></name>
+				<description><![CDATA[Candace]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_20_4bc5.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_20_5cf1.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_20_c0f9.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="51" scheduleID="" code="Ninja_Go" order="5" >
+		<showPage><![CDATA[series/ninja_go/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Ninja Go los sábados y domingos a las 22:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_51_00c4.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_51_196a.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_51_da71.swf]]></welcomeAnimation>
+		<name><![CDATA[Ninja Go]]></name>
+		<description><![CDATA[Sensei Wu y los cuatro Ninjas se embarcan en una aventura para detener a Lord Garmadon y evitar que se apodere de las Armas Doradas de Spinjitzu, con las que busca recrear a Ninjago en su propia versión malvada.
+Juntos, deberán dominar sus poderes elementales y descubrir sus destinos personales... evitando el acecho permanente de otros misteriosos y antiguos enemigos que andan sueltos por Ninjago - ¡los Serpentinos!]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Sensei Wu]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_246_0209.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_246_8247.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Kai ]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_247_71c2.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_247_e07b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Cole]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_248_e515.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_248_ec74.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Zane]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_249_d694.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_249_c193.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Jay]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_250_7b91.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_250_5cad.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Nya]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_251_487f.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_251_7cdf.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Lord Garmadon]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_252_3e16.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_252_468b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Los Hypnobrai]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_253_6c8f.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_253_de7d.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="44" scheduleID="" code="beyblade" order="9" >
+		<showPage><![CDATA[series/beyblade/]]></showPage>
+		<tuneIn><![CDATA[Mira Beyblade: Metal Fusion, los sábados y domingos a las 10:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_44_6149.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_44_7810.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_44_eba2.swf]]></welcomeAnimation>
+		<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+		<description><![CDATA[Un nuevo elenco de personajes asume la batalla contínua entre el Bien y el Mal. Gingka, el héroe, y su grupo de fieles amigos se enfrentan a un peligroso comando llamado Dark Nebula. La misión de Dark Nebula es tomar el control del mundo y desplegar su maldad en él, pero antes de lograrlo debe destruir a Gingka, la única persona con la fuerza necesaria para interponerse en su camino. Amigos que se convierten en enemigos, enemigos se alían... todo puede suceder, y Gingka deberá hallar el valor suficiente para defender su mundo y el honor de Beyblade.		]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[GINGKA]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_205_d459.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_205_3456.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[KYOYA]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_206_0316.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_206_e4fc.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[BENKEI]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_207_1d33.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_207_cc36.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[KENTA]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_208_93a1.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_208_2c94.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[RYUGA]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_209_d48e.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_209_5665.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[DOJI]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_210_835b.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_210_92ba.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/3/image_319_45d1.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_320_5542.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_321_85c9.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_322_4f2c.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_323_d233.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_324_cb0f.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_325_67ac.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_326_2dc6.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[RYUGA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_204_7501.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_01_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_01_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[RYUGA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_212_391d.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_01_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_01_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[KYOYA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_205_ad53.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_02_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_02_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[KENTA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_213_7caf.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_02_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_02_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[KENTA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_206_8c41.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_03_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_03_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[KYOYA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_214_cd12.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_03_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_03_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[GINGKA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_207_f358.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_04_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_04_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[BENKEI]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_215_da23.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_04_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_04_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[DOJI]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_208_c21e.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_05_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_05_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[DOJI]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_216_031c.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_05_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_05_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[BENKEI]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_209_7105.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_06_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_06_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[GINGKA]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_217_1806.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/2/icon_06_48x48.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/2/icon_06_96x96.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[TODOS 1]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_210_190b.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_07_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_07_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[BEYBLADE: Metal Fusion]]></name>
+				<description><![CDATA[TODOS 2]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_211_93ce.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_08_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_08_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="40" scheduleID="15" code="avengers" order="10" >
+		<showPage><![CDATA[marveluniverse/series/the_avengers/]]></showPage>
+		<tuneIn><![CDATA[Mira Los vengadores: los héroes más poderosos del planeta, los fines de semana a las 8:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_40_b019.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_40_5951.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_40_2e51.swf]]></welcomeAnimation>
+		<name><![CDATA[Avengers]]></name>
+		<description><![CDATA[Si el planeta está amenazado por Súper Villanos, conquistadores que viajan en el tiempo, invasores extraterrestres, bestias místicas o robots dispuestos a destruir por completo a la humanidad; si las fuerzas del mal son tan abrumadoras que ningún héroe solitario tiene el poder de salvar al mundo, cuando no quedan esperanzas reúne a Los Vengadores. Son lo mejor de lo mejor en el universo Marvel, los más grandiosos héroes que se encargan de los enemigos imbatibles y sobre cuyos hombros descansa el destino del mundo. Iron Man, Hulk, Capitán América, Thor... cada uno tiene su talento, cada uno tiene su poder, ¡pero la suma de sus fuerzas los hace invencibles!]]></description>
+		<games>
+			<game ID="81" />
+			<game ID="83" />
+			<game ID="86" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Iron Man]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_197_1f1b.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_197_2e07.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Hulk]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_196_ebd6.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_196_653d.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Capitán América]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_198_d278.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_198_4cda.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Thor]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_199_1b9c.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_199_082c.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Barón Zemo]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_200_99e5.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_200_f3ba.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/2/image_289_a54f.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_290_e854.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_291_1488.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_292_e996.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_293_110c.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_294_e875.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_295_fb90.jpg]]></image>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="45" scheduleID="" code="como_hermanos" order="10" >
+		<showPage><![CDATA[series/como_hermanos/]]></showPage>
+		<tuneIn><![CDATA[Mira Como hermanos, de lunes a viernes a las 9:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_45_fbd7.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_45_c8a6.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_45_ac66.swf]]></welcomeAnimation>
+		<name><![CDATA[COMO HERMANOS]]></name>
+		<description><![CDATA[9 años, 84 centímetros de altura y 12 kilos en estado empapado suficiente para entender que Pahé no es demasiado rudo ni atlético. ¿Su mejor amigo? Sebastián.
+Seb es blanco y Pahé es negro, y para ellos, lo más importante es estar juntos. Sus diferentes culturas se encuentran y se enriquecen mutuamente, a través de una amistad honesta y generosa, capaz de sobreponerse a cualquier malentendido. Como dice Pahé, Padres diferentes, madres diferentes, pero en este mundo, hermanos al frente. ¡No te pierdas las aventuras más divertidas que vivirán Pahé y Sebastián en Disney XD!]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Pahé]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_211_e9fd.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_211_cbc8.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Sebastián]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_212_c050.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_212_8616.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Whisky]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_213_9829.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_213_1f50.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Marilou]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_214_a835.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_214_56ce.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Mamá Odette]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_215_a520.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_215_cbe7.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/3/image_327_8031.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_328_49b6.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_329_b9c7.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_330_ba71.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_331_37cf.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_332_b60c.jpg]]></image>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="53" scheduleID="" code="Iron_Man" order="13" >
+		<showPage><![CDATA[marveluniverse/series/ironman/]]></showPage>
+		<tuneIn><![CDATA[Conoce a Iron Man en Universo Marvel]]></tuneIn>
+		<imageS><![CDATA[images/images_53_e9f6.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_53_88e2.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[Iron Man]]></name>
+		<description><![CDATA[Iron Man]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="43" scheduleID="" code="peter_punk" order="14" >
+		<showPage><![CDATA[series/peter_punk/]]></showPage>
+		<tuneIn><![CDATA[Mira Peter Punk, de lunes a viernes a las 17:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_43_472d.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_43_e920.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[Peter Punk]]></name>
+		<description><![CDATA[Una serie sobre una banda de rock que se emite por Disney XD.]]></description>
+		<games>
+			<game ID="118" />
+			<game ID="106" />
+			<game ID="96" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="48" scheduleID="" code="mi_ninera_es_una_vampira" order="15" >
+		<showPage><![CDATA[series/mi_ninera_es_una_vampira/]]></showPage>
+		<tuneIn><![CDATA[Mira Mi niñera es una vampira, los sábado y domingos a las 21:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_48_91bf.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_48_b4c7.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_48_5dd5.swf]]></welcomeAnimation>
+		<name><![CDATA[Mi Niñera es una Vampira]]></name>
+		<description><![CDATA[Cuando Ethan y un amigo quedan al cuidado de su pequeña hermana y ésta casi muere, sus padres preparan el peor castigo posible: una niñera. Ethan pronto advierte que la candidata elegida es nada menos que Sarah, la chica más bonita de la escuela y su amor imposible. Sin embargo, la niñera de sus sueños esconde un poderoso secreto que pronto sale a la luz: ¡es una vampira!
+Mientras Ethan, Benny y Rory se ven arrastrados en la misión de Sarah de impedir que Jesse, su ex-novio chupasangre, tome control de la ciudad, comienzan a advertir que el pequeño y aparentemente aburrido pueblo de Whitechapel esconde más de un secreto oscuro y tenebroso... y que ellos también tienen algún que otro poder oculto para acompañar. ]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Ethan]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_227_a0b6.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_227_577e.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Benny]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_228_5645.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_228_37ac.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Sarah]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_229_e28f.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_229_1457.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Rory]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_230_ac42.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_230_68ed.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Erica]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_231_7456.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_231_8ff5.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="5" scheduleID="149" code="Pucca" order="16" >
+		<showPage><![CDATA[series/pucca/]]></showPage>
+		<tuneIn><![CDATA[Mira dos episodios seguidos de Pucca, de lunes a viernes a las 12:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_5_9d8d.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_5_d62a.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_5_09f6.swf]]></welcomeAnimation>
+		<name><![CDATA[Pucca]]></name>
+		<description><![CDATA[Pucca adora a un niño ninja llamado Garu, quien está demasiado ocupado luchando contra la malvada patrulla ninja para besar a Pucca.]]></description>
+		<games>
+			<game ID="5" />
+			<game ID="65" />
+			<game ID="18" />
+			<game ID="72" />
+			<game ID="19" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Pucca]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_10_93c3.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_10_f163.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Garu]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_36_2b05.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_36_ad3f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Mio]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_37_5e33.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_37_b56c.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Ching]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_38_5180.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_38_9b96.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Abyo]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_39_2ba0.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_39_a08b.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/0/image_37_7865.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_38_c621.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_39_48e3.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_40_d671.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_41_a19b.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_42_170d.jpg]]></image>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="50" scheduleID="" code="Bondi_Band" order="20" >
+		<showPage><![CDATA[series/bondi_band/]]></showPage>
+		<tuneIn><![CDATA[Mira Bondi Band, todos los sábados y domingos a las 13:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_50_d1ee.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_50_6d13.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_50_5376.swf]]></welcomeAnimation>
+		<name><![CDATA[Bondi Band]]></name>
+		<description><![CDATA[¿Qué harías si descubrieras que debajo de tu ciudad se esconde una gran Piedra Rosa que constituye la fuente de energía más poderosa del Universo? ¿Y qué harías si supieras que esa energía está al alcance de tu mano? ¿Estarías dispuesto a dejarlo todo para convertirte en un superhéroe? Tony, Laila, Nina, Azim, Ariel y Mariano han sido elegidos para descubrir el secreto rosa... y sus vidas cambiarán para siempre. Bajo la fachada de una simple banda de rock estudiantil, estos mini héroes aceptarán el desafío de cambiar juegos por estrategias, malteadas por rayos láser y tranquilos paseos por batallas interminables ¡convirtiéndose así en LOS BONDIBAND! Pero la más oscura maldad también viste de rosa, y la inescrupulosa Miss C. Lebrity estará dispuesta a todo para llegar hasta el centro de la tierra y teñir a Villa Tornasol de su color favorito. Sólo LOS BONDIBAND, con sus poderosos instrumentos, podrán defendernos, rockeando a todo volumen contra el Mal.]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Tony]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_237_0d77.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_237_2a8b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Laila]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_238_a0d5.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_238_fe6f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Azim]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_239_adc0.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_239_20f6.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Boris]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_240_5281.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_240_8bd1.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Nina]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_241_1c77.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_241_755c.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Lebrity]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_242_3f06.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_242_d5b8.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Mike Chong]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_243_3a1f.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_243_f07c.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Peter Solfa]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_244_5055.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_244_dce7.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[David]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_245_d223.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_245_c99a.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[Bondi Band]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_233_6a73.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Azim]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_234_9b6b.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Azim_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Azim_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Boris]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_235_1f2e.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Boris_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Boris_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[David]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_236_89ea.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_David_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_David_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Laila]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_237_d205.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Laila_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Laila_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Nina]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_238_f7aa.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Nina_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Nina_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Tony]]></name>
+				<description><![CDATA[Bondi Band]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_239_623b.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Tony_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/Wall_BondiBand_Tony_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="39" scheduleID="277" code="el_escuadron_de_superheroes" order="21" >
+		<showPage><![CDATA[marveluniverse/series/el_escuadron_de_superheroes/]]></showPage>
+		<tuneIn><![CDATA[Mira El escuadrón de superhéroes, los sábados y domingos a las 8:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_39_3ca1.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_39_68ef.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+		<description><![CDATA[.]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[Super Héroes]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_184_cf42.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL1-todos-1024x768.jpg ]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL2-todos-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[IRON MAN]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_185_4afd.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL3-ironman-1024x768.jpg ]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL4-ironman-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[DR.DOOM]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_186_aef8.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL5-doom-1024x768.jpg ]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL6-doom-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[WOLVERINE]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_187_9ad0.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL7-wolverine-1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL8-wolverine-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[HULK]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_188_359d.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL9-hulk-1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL10-hulk-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[SILVER SURFER]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_189_13e7.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL11-silversurfer-1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[12]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL12-silversurfer-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[THOR]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_190_727d.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL13-thor-1024x768.jpg ]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL14-thor-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[El Escuadrón de Super Héroes]]></name>
+				<description><![CDATA[FALCON]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_191_0674.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL15-hawk-1024x768.jpg ]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/EDSH-WALL16-hawk-1280x1024.jpg ]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="34" scheduleID="2" code="estoy_en_la_banda" order="26" >
+		<showPage><![CDATA[series/estoy_en_la_banda/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Estoy en la bandaor Disney XD]]></tuneIn>
+		<imageS><![CDATA[images/images_34_2bd4.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_34_e2a4.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[Estoy en la Banda]]></name>
+		<description><![CDATA[Disney Xd Estoy en la Banda es una serie sobre una banda de rock que se emitirá por Disney XD.]]></description>
+		<games>
+			<game ID="111" />
+			<game ID="90" />
+			<game ID="75" />
+			<game ID="63" />
+			<game ID="87" />
+			<game ID="56" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Jesse Fulton]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_184_3d22.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_184_be61.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Harrison Gray]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_185_6417.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_185_4509.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Taylor Watling]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_186_f3eb.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_186_2bd7.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Anthony Wolf]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_187_554d.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_187_7898.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Jake Egan]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_188_1667.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_188_062d.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Palmer Taylor]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_189_21c9.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_189_972e.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="41" scheduleID="" code="par_de_reyes" order="34" >
+		<showPage><![CDATA[series/par_de_reyes/]]></showPage>
+		<tuneIn><![CDATA[Mira Par de reyes, de lunes a viernes a las 18:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_41_07ff.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_41_81a2.png]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_41_6a7b.swf]]></welcomeAnimation>
+		<name><![CDATA[PAR DE REYES]]></name>
+		<description><![CDATA[Boomer y Brady no podrían lucir más diferentes - ¡pero son mellizos de 16 años! Brady, el ansioso, y Boomer, el despreocupado, son típicos adolescentes de Chicago, pero sus vidas toman un giro inesperado cuando descubren que son los herederos al trono de Kinkou, un remoto reino en una isla. ¿La trampa? Hay sólo un trono, y dos mellizos...]]></description>
+		<games>
+			<game ID="109" />
+			<game ID="114" />
+			<game ID="108" />
+			<game ID="98" />
+			<game ID="82" />
+			<game ID="99" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/2/image_296_2f4e.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_297_b964.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_298_d24f.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/2/image_299_d354.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/3/image_300_5314.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[Par de Reyes 1]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/1/imagem_199_6972.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/1/wall_01_PDR_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/1/wall_01_PDR_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Par de Reyes 2]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_200_b733.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_02_PDR_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_02_PDR_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Par de Reyes 3]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_201_cf63.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_03_PDR_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_03_PDR_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Par de Reyes 4]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_202_3413.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_04_PDR_1024x768.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_04_PDR_1024x768.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Par de Reyes 5]]></name>
+				<description><![CDATA[]]></description>
+				<imageM><![CDATA[dynassets/download/2/imagem_203_3fda.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/2/wall_05_PDR_1280x1024.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/2/wall_05_PDR_1280x1024.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="16" scheduleID="144" code="LosPadrinosMagicos" order="43" >
+		<showPage><![CDATA[series/lospadrinosmagicos/]]></showPage>
+		<tuneIn><![CDATA[Mira Los Padrinos Mágicos, de lunes a viernes a las 11:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_16_dcbd.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_16_05dd.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_16_39a5.swf]]></welcomeAnimation>
+		<name><![CDATA[Los Padrinos Mágicos]]></name>
+		<description><![CDATA[Timmy Turner tiene 10 años y los adultos están siempre queriendo dominar su vida. Por suerte tiene a Cosmo y Wanda, ¡sus padrinos mágicos! quienes le concederán sus deseos.]]></description>
+		<games>
+			<game ID="8" />
+			<game ID="7" />
+			<game ID="10" />
+			<game ID="9" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Chester]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_140_a6cc.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_140_cc20.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Timmy]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_141_47da.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_141_31a2.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Wanda]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_142_6e52.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_142_8b7e.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[A.J. Ibrahim]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_143_9572.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_143_f41e.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Cosmo]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_144_6ca3.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_144_3479.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Vicky]]></name>
+				<imageS><![CDATA[dynassets/character/1/images_145_2346.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/1/imagel_145_e5cf.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/1/image_136_b2d3.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_144_663d.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_143_8a16.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_142_18d9.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_141_8611.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_140_d0a3.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_139_3789.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_138_6dcd.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_137_2718.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/1/image_145_88f5.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 1]]></name>
+				<description><![CDATA[Wallpaper 1]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_32_ef23.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[800x600]]></name>
+						<link><![CDATA[dynassets/download/0/file1_32_d0fe.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file2_32_ad6b.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 2]]></name>
+				<description><![CDATA[Wallpaper 2]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_33_4e38.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[800x600]]></name>
+						<link><![CDATA[dynassets/download/0/file1_33_2b02.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file2_33_ecb7.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 3]]></name>
+				<description><![CDATA[Wallpaper 3]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_34_fe87.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[800x600]]></name>
+						<link><![CDATA[dynassets/download/0/file1_34_95ee.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file2_34_4c3c.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 4]]></name>
+				<description><![CDATA[Wallpaper 4]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_35_e879.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[800x600]]></name>
+						<link><![CDATA[dynassets/download/0/file1_35_d059.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file2_35_5014.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="8" scheduleID="278" code="Kid Kat" order="45" >
+		<showPage><![CDATA[series/kid_kat/]]></showPage>
+		<tuneIn><![CDATA[Mira Kid vs Kat de lunes a viernes a las 11:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_8_a1e9.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_8_7978.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_8_2746.swf]]></welcomeAnimation>
+		<name><![CDATA[Kid vs. Kat]]></name>
+		<description><![CDATA[Coop lleva una vida bastante normal hasta que su hermana (y maestra manipuladora) Millie trae a casa una caja llena de pura maldad: un pequeño gato calvo.]]></description>
+		<games>
+			<game ID="36" />
+			<game ID="70" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Coop]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_27_c3ab.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_27_1991.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Kat]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_28_73ee.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_28_c11b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Millie]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_29_3f20.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_29_b144.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Dennis]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_30_1f5f.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_30_1ad7.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Munson]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_31_1279.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_31_6e64.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Papá]]></name>
+				<imageS><![CDATA[dynassets/character/0/images_32_03ef.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/0/imagel_32_243d.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+			<image><![CDATA[dynassets/imggallery/0/image_25_9fdc.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_26_52d6.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_27_b617.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_28_a82d.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_29_2576.jpg]]></image>
+			<image><![CDATA[dynassets/imggallery/0/image_30_d517.jpg]]></image>
+		</imageGallery>
+		<downloads>
+			<download typeID="2" >
+				<name><![CDATA[Kid]]></name>
+				<description><![CDATA[Kid]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_12_9ad9.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_12_7c41.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_12_e20a.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Kat]]></name>
+				<description><![CDATA[Kat]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_15_b357.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_15_14ed.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_15_a0e2.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Papá]]></name>
+				<description><![CDATA[Papá]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_17_c4ec.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_17_6ee3.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_17_70a5.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Dennis]]></name>
+				<description><![CDATA[Dennis]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_19_2ef7.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_19_5df1.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_19_761a.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Millie]]></name>
+				<description><![CDATA[Millie]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_21_fb24.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48X48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_21_041d.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96X96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_21_3eda.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="2" >
+				<name><![CDATA[Sra Munson]]></name>
+				<description><![CDATA[Sra Munson]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_22_1490.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[48x48]]></name>
+						<link><![CDATA[dynassets/download/0/file1_22_109d.gif]]></link>
+					</file>
+					<file>
+						<name><![CDATA[96x96]]></name>
+						<link><![CDATA[dynassets/download/0/file2_22_5d5b.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+	<show ID="27" scheduleID="277" code="Zeke & Luther" order="56" >
+		<showPage><![CDATA[series/zeke___luther/]]></showPage>
+		<tuneIn><![CDATA[Mira Zeke & Luther, de lunes a viernes a las 19:30 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_27_8ad5.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_27_575a.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[]]></welcomeAnimation>
+		<name><![CDATA[Zeke & Luther]]></name>
+		<description><![CDATA[Un día en la vida de Zeke y Luther: trucos arriesgados, caos masivo y molestas hermanas menores. Los verás saltar hacia el estatus de skaters profesionales.
+]]></description>
+		<games>
+			<game ID="115" />
+			<game ID="53" />
+			<game ID="39" />
+			<game ID="78" />
+			<game ID="57" />
+			<game ID="88" />
+			<game ID="94" />
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 1]]></name>
+				<description><![CDATA[Wallpaper 1]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_23_26fa.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_23_e6a2.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/0/file2_23_cf30.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 2]]></name>
+				<description><![CDATA[Wallpaper 2]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_24_04f1.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_24_a720.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/0/file2_24_5fe4.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 3]]></name>
+				<description><![CDATA[Wallpaper 3]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_25_fec1.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_25_c887.jpg]]></link>
+					</file>
+					<file>
+						<name><![CDATA[1280x1024]]></name>
+						<link><![CDATA[dynassets/download/0/file2_25_f72b.jpg]]></link>
+					</file>
+				</files>
+			</download>
+			<download typeID="1" >
+				<name><![CDATA[Wallpaper 4]]></name>
+				<description><![CDATA[Wallpaper 4]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_26_628a.jpg]]></imageM>
+				<files>
+					<file>
+						<name><![CDATA[1024x768]]></name>
+						<link><![CDATA[dynassets/download/0/file1_26_5faa.jpg]]></link>
+					</file>
+				</files>
+			</download>
+		</downloads>
+		<mobiles>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_72_7064.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_73_7995.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_74_0f6d.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_75_7645.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_76_012c.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_77_3252.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+			<mobile typeID="4" >
+				<name><![CDATA[ZEKE Y LUTHER]]></name>
+				<description><![CDATA[Enviando un SMS con la palabra XD al <font color="#1DE5E2"><b>25050</b></font> te encontrarás con atractivas descargas de la serie para tu celular.
+
+<font size="-1">CONSULTA A TUS PADRES ANTESDE ENVIAR EL MENSAJE. Consultar bases y condiciones, alcance, vigencia y costo de SMS en <font color="#1DE5E2"><a href="http://www.net-people.com/controlx" target="_blank"><u>www.net-people.com/controlx</u></a></font>
+
+En Argentina válido para clientes Claro, Personal y Movistar en toda la República Argentina excepto Mendoza, precio final por SMS $0,63.</font>]]></description>
+				<imageM><![CDATA[dynassets/download/0/imagem_78_29aa.jpg]]></imageM>
+				<lead><![CDATA[XD al 25050]]></lead>
+			</mobile>
+		</mobiles>
+	</show>
+	<show ID="55" scheduleID="" code="Pok_y_Mok" order="0" >
+		<showPage><![CDATA[series/pok_y_mok/]]></showPage>
+		<tuneIn><![CDATA[No te pierdas Pok y Mok, de lunes a viernes a las 21:00 hs.]]></tuneIn>
+		<imageS><![CDATA[images/images_55_c83f.jpg]]></imageS>
+		<imageM><![CDATA[dynassets/show/0/imagem_55_1c65.jpg]]></imageM>
+		<welcomeAnimation><![CDATA[dynassets/show/0/welcomeanimation_55_fe40.swf]]></welcomeAnimation>
+		<name><![CDATA[Pok y Mok]]></name>
+		<description><![CDATA[¿Qué obtienes cuando unes a un niño con una especie de mono llamada gibón? ¡Las historias más divertidas! Mok es un niño de 8 años y Pok es su mascota. Junto a los padres de Mok, viven cómicas aventuras y hacen eco-descubrimientos que los sorprenderán. 		
+]]></description>
+		<games>
+		</games>
+		<whatsHot>
+		</whatsHot>
+		<characters>
+			<character>
+				<name><![CDATA[Mok]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_260_1e14.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_260_9ca9.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Pok]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_261_a794.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_261_a8eb.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Camile]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_262_a3cd.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_262_79f2.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Penélope]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_263_d243.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_263_950f.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Ernest]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_264_7fdb.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_264_9eff.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Abuela]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_265_78ae.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_265_ff5b.swf]]></imageL>
+			</character>
+			<character>
+				<name><![CDATA[Abuelo]]></name>
+				<imageS><![CDATA[dynassets/character/2/images_266_75f4.jpg]]></imageS>
+				<imageL><![CDATA[dynassets/character/2/imagel_266_97b1.swf]]></imageL>
+			</character>
+		</characters>
+		<imageGallery>
+		</imageGallery>
+		<downloads>
+		</downloads>
+		<mobiles>
+		</mobiles>
+	</show>
+</shows>
+

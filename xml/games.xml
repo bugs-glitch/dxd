@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+	<game ID="52" featured="1" popular="0" order="0" code="tenis" createDate="2010-02-18 03:12:26" >
+		<gamePage><![CDATA[juegos/tenis/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_52_7a91.jpg]]></imageS>
+		<name><![CDATA[TENIS]]></name>
+		<lead><![CDATA[Una partida de tenis tenebrosa.]]></lead>
+		<description><![CDATA[Una partida de tenis tenebrosa.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="109" featured="1" popular="1" order="0" code="TREPA_COMO_UN_REY" createDate="2012-01-13 10:25:20" >
+		<gamePage><![CDATA[juegos/trepa_como_un_rey/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_109_290f.jpg]]></imageS>
+		<name><![CDATA[TREPA COMO UN REY]]></name>
+		<lead><![CDATA[¿Listo para trepar?
+¡JUEGA!]]></lead>
+		<description><![CDATA[¿Listo para trepar?
+¡JUEGA!]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="111" featured="1" popular="0" order="0" code="rokeando_por_la_gloria" createDate="2012-01-10 15:02:07" >
+		<gamePage><![CDATA[juegos/rokeando_por_la_gloria/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_111_a680.jpg]]></imageS>
+		<name><![CDATA[Rockeando por la Gloria]]></name>
+		<lead><![CDATA[Rockeando por la gloria]]></lead>
+		<description><![CDATA[]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="112" featured="1" popular="0" order="0" code="AL_RESCATE" createDate="2012-02-10 10:43:23" >
+		<gamePage><![CDATA[juegos/al_rescate/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_112_5d3c.jpg]]></imageS>
+		<name><![CDATA[AL RESCATE]]></name>
+		<lead><![CDATA[¡Juega con Bobby Wasabi!]]></lead>
+		<description><![CDATA[¡Juega con Bobby Wasabi!]]></description>
+		<shows>
+			<show ID="47" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="113" featured="1" popular="0" order="0" code="GOLF_EXTRAORDINARIO" createDate="2012-04-04 13:29:39" >
+		<gamePage><![CDATA[juegos/golf_extraordinario/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_113_fa52.jpg]]></imageS>
+		<name><![CDATA[GOLF EXTRA- ORDINARIO]]></name>
+		<lead><![CDATA[¡Juega al golf con Phineas y Ferb!]]></lead>
+		<description><![CDATA[¡Juega al golf con Phineas y Ferb!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="114" featured="1" popular="0" order="0" code="MONSTRUOS_DE_LA_ISLA_OSCURA" createDate="2012-04-04 13:34:45" >
+		<gamePage><![CDATA[juegos/monstruos_de_la_isla_oscura/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_114_3683.jpg]]></imageS>
+		<name><![CDATA[Los Monstruos de la Isla Oscura]]></name>
+		<lead><![CDATA[Era un día hermoso,¡JUEGA!]]></lead>
+		<description><![CDATA[Era un día hermoso,¡JUEGA!]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="115" featured="1" popular="0" order="0" code="Aventuras_Riot_Skate" createDate="2012-04-04 13:30:05" >
+		<gamePage><![CDATA[juegos/aventuras_riot_skate/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_115_7ca9.jpg]]></imageS>
+		<name><![CDATA[Aventuras Riot Skate]]></name>
+		<lead><![CDATA[Hay grandes misiones sobre skate.
+¿Te animas?]]></lead>
+		<description><![CDATA[Hay grandes misiones sobre skate.
+¿Te animas?]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="116" featured="0" popular="0" order="0" code="Sabotaje_Cibernetico" createDate="2012-07-16 15:05:11" >
+		<gamePage><![CDATA[juegos/sabotaje_cibernetico/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_116_01d7.jpg]]></imageS>
+		<name><![CDATA[Sabotaje Cibernético]]></name>
+		<lead><![CDATA[¡Ayuda a Spiderman a explorar OSCORP!]]></lead>
+		<description><![CDATA[¡Ayuda a Spiderman a explorar OSCORP!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="117" featured="0" popular="0" order="0" code="Iron_Spider" createDate="2012-07-31 15:54:21" >
+		<gamePage><![CDATA[juegos/iron_spider/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_117_c371.jpg]]></imageS>
+		<name><![CDATA[Iron Spider]]></name>
+		<lead><![CDATA[¡Únete a Spiderman!]]></lead>
+		<description><![CDATA[¡Únete a Spiderman!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="118" featured="0" popular="0" order="0" code="Foto_Tour" createDate="2012-07-17 12:04:34" >
+		<gamePage><![CDATA[juegos/foto_tour/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_118_460b.jpg]]></imageS>
+		<name><![CDATA[Foto Tour]]></name>
+		<lead><![CDATA[¡Retrata a Rock Bones en su gira por Latinoamérica!]]></lead>
+		<description><![CDATA[¡Retrata a Rock Bones en su gira por Latinoamérica!]]></description>
+		<shows>
+			<show ID="43" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="119" featured="0" popular="0" order="0" code="Heroicos_Bionicos" createDate="2012-08-01 09:30:52" >
+		<gamePage><![CDATA[juegos/heroicos_bionicos/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_119_98a9.jpg]]></imageS>
+		<name><![CDATA[Heroicos Biónicos]]></name>
+		<lead><![CDATA[¿Hay superpoderes dentro de ti?]]></lead>
+		<description><![CDATA[¿Hay superpoderes dentro de ti?]]></description>
+		<shows>
+			<show ID="54" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="120" featured="0" popular="0" order="0" code="Recorridos_de_Riesgo" createDate="2012-08-08 12:56:13" >
+		<gamePage><![CDATA[juegos/recorridos_de_riesgo/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_120_63e3.jpg]]></imageS>
+		<name><![CDATA[Recorridos de Riesgo]]></name>
+		<lead><![CDATA[¡Diviertete con Kick Buttowski!]]></lead>
+		<description><![CDATA[¡Diviertete con Kick Buttowski!]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="61" featured="1" popular="0" order="1" code="loco_launcho_extreme" createDate="2012-01-13 10:25:12" >
+		<gamePage><![CDATA[juegos/loco_launcho_extreme/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_61_efab.jpg]]></imageS>
+		<name><![CDATA[LOCO LAUNCHO EXTREME]]></name>
+		<lead><![CDATA[¡Entra en acción!]]></lead>
+		<description><![CDATA[¡Entra en acción!]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="107" featured="1" popular="0" order="2" code="La_carrera_del_siglo" createDate="2012-01-13 10:25:06" >
+		<gamePage><![CDATA[lacarreradelsiglo.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_107_40c2.jpg]]></imageS>
+		<name><![CDATA[La Carrera del Siglo]]></name>
+		<lead><![CDATA[¿Te animas?]]></lead>
+		<description><![CDATA[¿Te animas?]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="106" featured="1" popular="0" order="3" code="rockvspop" createDate="2012-01-13 10:25:00" >
+		<gamePage><![CDATA[juegos/rockvspop/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_106_67f7.jpg]]></imageS>
+		<name><![CDATA[Rock vs Pop]]></name>
+		<lead><![CDATA[¿Y tú, de qué lado estás?]]></lead>
+		<description><![CDATA[¿Y tú, de qué lado estás?]]></description>
+		<shows>
+			<show ID="43" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="105" featured="1" popular="0" order="4" code="tu_en_2d" createDate="2012-01-13 10:24:02" >
+		<gamePage><![CDATA[juegos/tu_en_2d/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_105_6be1.jpg]]></imageS>
+		<name><![CDATA[TÚ EN 2D]]></name>
+		<lead><![CDATA[¡Entra a la segunda dimensión!]]></lead>
+		<description><![CDATA[¡Entra a la segunda dimensión!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="104" featured="1" popular="0" order="5" code="combate_en_hollywood" createDate="2012-01-13 10:24:52" >
+		<gamePage><![CDATA[juegos/combate_en_hollywood/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_104_90e0.jpg]]></imageS>
+		<name><![CDATA[COMBATE EN HOLLYWOOD]]></name>
+		<lead><![CDATA[¿Puedes ganar el desafío?]]></lead>
+		<description><![CDATA[¿Puedes ganar el desafío?]]></description>
+		<shows>
+			<show ID="47" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="108" featured="1" popular="1" order="6" code="aventura_en_la_isla_de_la_oscuridad" createDate="2012-01-13 10:24:44" >
+		<gamePage><![CDATA[juegos/aventura_en_la_isla_de_la_oscuridad/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_108_dc11.jpg]]></imageS>
+		<name><![CDATA[AVENTURA EN LA ISLA]]></name>
+		<lead><![CDATA[¡Kinkow está en peligro!
+Salva la isla]]></lead>
+		<description><![CDATA[¡Kinkow está en peligro!
+Salva la isla]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="98" featured="0" popular="0" order="7" code="excavacion_real" createDate="2012-01-13 10:24:34" >
+		<gamePage><![CDATA[juegos/excavacion_real/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_98_1e76.jpg]]></imageS>
+		<name><![CDATA[EXCAVACIÓN REAL]]></name>
+		<lead><![CDATA[Hay un desafío en la isla.]]></lead>
+		<description><![CDATA[Hay un desafío en la isla.]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="100" featured="1" popular="0" order="8" code="el_agentep_ataca" createDate="2012-01-13 10:42:05" >
+		<gamePage><![CDATA[juegos/el_agentep_ataca/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_100_5efb.jpg]]></imageS>
+		<name><![CDATA[EL AGENTE P ATACA]]></name>
+		<lead><![CDATA[El Agente P en la 2da dimensión.]]></lead>
+		<description><![CDATA[El Agente P en la 2da dimensión.]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="102" featured="0" popular="0" order="9" code="dodge-dojo" createDate="2012-01-13 10:24:17" >
+		<gamePage><![CDATA[juegos/dodge_dojo/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_102_4a74.jpg]]></imageS>
+		<name><![CDATA[DODGE DOJO]]></name>
+		<lead><![CDATA[Juego de habilidades de karate]]></lead>
+		<description><![CDATA[¿Eres un verdadero Guerrero Wasabi? ¡Demuestralo!]]></description>
+		<shows>
+			<show ID="47" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="50" featured="1" popular="0" order="12" code="furia_coneja" createDate="2010-02-09 10:57:23" >
+		<gamePage><![CDATA[juegos/furia_coneja/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_50_3ef6.jpg]]></imageS>
+		<name><![CDATA[FURIA CONEJA]]></name>
+		<lead><![CDATA[Bloquea los ataques enemigos.]]></lead>
+		<description><![CDATA[Bloquea los ataques enemigos.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="48" featured="1" popular="0" order="13" code="mbc_contrataque" createDate="2010-02-09 10:56:36" >
+		<gamePage><![CDATA[juegos/mbc_contrataque/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_48_d33d.jpg]]></imageS>
+		<name><![CDATA[MBC: CONTRAATAQUE]]></name>
+		<lead><![CDATA[¡Pulveriza a los monstruos!]]></lead>
+		<description><![CDATA[¡Pulveriza a los monstruos!]]></description>
+		<shows>
+			<show ID="9" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="44" featured="1" popular="0" order="14" code="voyage_latam" createDate="2010-02-09 10:56:25" >
+		<gamePage><![CDATA[juegos/voyage_latam/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_44_278a.jpg]]></imageS>
+		<name><![CDATA[VIAJE MAGNÉTICO]]></name>
+		<lead><![CDATA[Ayuda a Phineas a rescatar a Ferb]]></lead>
+		<description><![CDATA[Ayuda a Phineas a rescatar a Ferb]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="24" featured="1" popular="0" order="15" code="CopaDisney_UnDelanteroImbatible" createDate="2012-01-12 09:45:05" >
+		<gamePage><![CDATA[juegos/copadisney_undelanteroimbatible/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_24_6ed0.jpg]]></imageS>
+		<name><![CDATA[DELANTERO IMBATIBLE]]></name>
+		<lead><![CDATA[Copa Disney]]></lead>
+		<description><![CDATA[Copa Disney]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="49" featured="1" popular="0" order="17" code="comida_basura" createDate="2010-02-09 10:57:14" >
+		<gamePage><![CDATA[juegos/comida_basura/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_49_c25a.jpg]]></imageS>
+		<name><![CDATA[COMIDA BASURA]]></name>
+		<lead><![CDATA[¡Arrasa con la comida basura!]]></lead>
+		<description><![CDATA[¡Arrasa con la comida basura!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="47" featured="1" popular="0" order="18" code="pinball_xd" createDate="2010-02-09 10:56:48" >
+		<gamePage><![CDATA[juegos/pinball_xd/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_47_8100.jpg]]></imageS>
+		<name><![CDATA[MÁQUINA DE PINBALL XD]]></name>
+		<lead><![CDATA[¡Vuélvete loco con este juego!]]></lead>
+		<description><![CDATA[¡Vuélvete loco con este juego!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="40" featured="1" popular="0" order="19" code="skatetuning" createDate="2010-02-09 10:55:51" >
+		<gamePage><![CDATA[juegos/skatetuning/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_40_fc5d.jpg]]></imageS>
+		<name><![CDATA[TU SKATEBOARD]]></name>
+		<lead><![CDATA[Tu Skateborad]]></lead>
+		<description><![CDATA[¡Diseña tu propio skate! ]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="8" featured="1" popular="0" order="20" code="PadrinosMagicos_FlipperMagico" createDate="2012-01-04 16:00:28" >
+		<gamePage><![CDATA[flippermagico.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_8_1fee.jpg]]></imageS>
+		<name><![CDATA[FLIPPER MÁGICO]]></name>
+		<lead><![CDATA[FLIPPER MÁGICO]]></lead>
+		<description><![CDATA[¡Ayuda a Cosmo a ser un campeón!]]></description>
+		<shows>
+			<show ID="16" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="25" featured="1" popular="0" order="21" code="PhineasAndFerb_NoHayProblema" createDate="2012-01-04 16:00:12" >
+		<gamePage><![CDATA[juegos/phineasandferb_nohayproblema/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_25_0aa5.jpg]]></imageS>
+		<name><![CDATA[NO HAY PROBLEMA]]></name>
+		<lead><![CDATA[No Hay Problema]]></lead>
+		<description><![CDATA[¡Ayúdalos a hacer una montaña!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="42" featured="1" popular="0" order="21" code="sportmachine" createDate="2010-02-09 10:16:51" >
+		<gamePage><![CDATA[juegos/sportmachine/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_42_5f77.jpg]]></imageS>
+		<name><![CDATA[MIX MACHINE]]></name>
+		<lead><![CDATA[Crea tu propio deporte.]]></lead>
+		<description><![CDATA[Crea tu propio deporte.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="6" featured="1" popular="0" order="22" code="PhineasAndFerb_ElEsconditeDelAgenteP" createDate="2012-01-04 16:00:00" >
+		<gamePage><![CDATA[juegos/phineasandferb_elesconditedelagentep/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_6_7dc6.jpg]]></imageS>
+		<name><![CDATA[ESCONDITE AGENTE P]]></name>
+		<lead><![CDATA[ESCONDITE AGENTE P]]></lead>
+		<description><![CDATA[¡Prueba ser agente secreto!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="27" featured="1" popular="1" order="22" code="ComboNinos_ControlDePlagas" createDate="2010-02-09 10:14:27" >
+		<gamePage><![CDATA[juegos/comboninos_controldeplagas/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_27_fb3a.jpg]]></imageS>
+		<name><![CDATA[CONTROL DE PLAGAS]]></name>
+		<lead><![CDATA[CONTROL DE PLAGAS]]></lead>
+		<description><![CDATA[¡Ayuda a Paco en su misión!]]></description>
+		<shows>
+			<show ID="13" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="36" featured="1" popular="1" order="23" code="kidvskat_katapult" createDate="2012-01-12 09:48:46" >
+		<gamePage><![CDATA[katapultadesastrosa.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_36_f029.jpg]]></imageS>
+		<name><![CDATA[KATAPULTA DESASTROSA]]></name>
+		<lead><![CDATA[¡Atrapa a los gnomos!]]></lead>
+		<description><![CDATA[¡Atrapa a los gnomos!]]></description>
+		<shows>
+			<show ID="8" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="46" featured="1" popular="0" order="23" code="abajo_el_perryscopio" createDate="2010-02-09 10:57:04" >
+		<gamePage><![CDATA[juegos/abajo_el_perryscopio/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_46_9683.jpg]]></imageS>
+		<name><![CDATA[ABAJO EL PERRYSCOPIO]]></name>
+		<lead><![CDATA[Ayuda a salvar a los peces.]]></lead>
+		<description><![CDATA[Ayuda a salvar a los peces.]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="20" featured="1" popular="0" order="24" code="YingYangYo_FlipFlopFoo" createDate="2012-01-04 15:59:30" >
+		<gamePage><![CDATA[flipflopfoo.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_20_f924.jpg]]></imageS>
+		<name><![CDATA[FLIP FLOP FOO]]></name>
+		<lead><![CDATA[FLIP FLOP FOO]]></lead>
+		<description><![CDATA[¡Pon a prueba tu destreza Woo Foo!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="26" featured="1" popular="1" order="25" code="YingYangYo_EntrenamientoWooFoo" createDate="2012-01-04 15:59:12" >
+		<gamePage><![CDATA[entrenamientowoofoo.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_26_0a1d.jpg]]></imageS>
+		<name><![CDATA[ENTRENAMIENTO WOO FOO]]></name>
+		<lead><![CDATA[ENTRENAMIENTO WOO FOO]]></lead>
+		<description><![CDATA[¡Entrena con Yin y Yang!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="60" featured="1" popular="0" order="25" code="conejo_saltarin" createDate="2010-06-11 11:22:24" >
+		<gamePage><![CDATA[juegos/conejo_saltarin/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_60_43c7.jpg]]></imageS>
+		<name><![CDATA[CONEJO SALTARÍN]]></name>
+		<lead><![CDATA[Diversión saltarina.]]></lead>
+		<description><![CDATA[Diversión saltarina.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="5" featured="1" popular="0" order="26" code="Pucca_AmorNinja" createDate="2010-02-09 10:30:23" >
+		<gamePage><![CDATA[amorninja.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_5_7e1c.jpg]]></imageS>
+		<name><![CDATA[AMOR NINJA]]></name>
+		<lead><![CDATA[AMOR NINJA]]></lead>
+		<description><![CDATA[¡Entra e intenta atrapar a Garu!]]></description>
+		<shows>
+			<show ID="5" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="53" featured="1" popular="0" order="27" code="desafio_de_trucos" createDate="2012-01-04 15:58:50" >
+		<gamePage><![CDATA[desafio-de-trucos.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_53_da6e.jpg]]></imageS>
+		<name><![CDATA[DESAFÍO DE TRUCOS]]></name>
+		<lead><![CDATA[Desafía tu talento.
+]]></lead>
+		<description><![CDATA[Desafía tu talento.
+]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="58" featured="1" popular="0" order="28" code="air_hockey_edicion_labradora" createDate="2012-01-04 15:58:39" >
+		<gamePage><![CDATA[juegos/air_hockey_edicion_labradora/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_58_96f0.jpg]]></imageS>
+		<name><![CDATA[AIR HOCKEY]]></name>
+		<lead><![CDATA[¡Pon a prueba tus destrezas!
+]]></lead>
+		<description><![CDATA[¡Pon a prueba tus destrezas!
+]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="7" featured="1" popular="1" order="29" code="PadrinosMagicos_AventuraMagica" createDate="2010-02-09 10:36:07" >
+		<gamePage><![CDATA[aventuramagica.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_7_84ac.jpg]]></imageS>
+		<name><![CDATA[AVENTURA MÁGICA]]></name>
+		<lead><![CDATA[AVENTURA MÁGICA]]></lead>
+		<description><![CDATA[¡Rescata a Cosmo y Wanda!]]></description>
+		<shows>
+			<show ID="16" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="65" featured="1" popular="0" order="29" code="pucca-susshi-mix" createDate="2012-01-04 15:58:28" >
+		<gamePage><![CDATA[juegos/pucca_susshi_mix/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_65_417e.jpg]]></imageS>
+		<name><![CDATA[PUCCA SUSHI MIX]]></name>
+		<lead><![CDATA[Ayuda a Pucca con el Sushi.
+]]></lead>
+		<description><![CDATA[Ayuda a Pucca con el Sushi.]]></description>
+		<shows>
+			<show ID="5" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="18" featured="1" popular="0" order="30" code="Pucca_DulceNocheDeBrujas" createDate="2012-01-12 09:46:32" >
+		<gamePage><![CDATA[juegos/pucca_dulcenochedebrujas/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_18_c9a6.jpg]]></imageS>
+		<name><![CDATA[DULCE NOCHE DE BRUJAS]]></name>
+		<lead><![CDATA[¡Encuentra los dulces! ]]></lead>
+		<description><![CDATA[¡Encuentra los dulces! ]]></description>
+		<shows>
+			<show ID="5" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="90" featured="1" popular="0" order="30" code="rockompetencia" createDate="2012-03-02 08:13:27" >
+		<gamePage><![CDATA[juegos/rockompetencia/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_90_6e24.jpg]]></imageS>
+		<name><![CDATA[ROCKOMPE- TENCIA]]></name>
+		<lead><![CDATA[Rock sin parar.]]></lead>
+		<description><![CDATA[Rock sin parar.]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="51" featured="1" popular="0" order="33" code="jet_cat_al_extremo" createDate="2010-02-12 11:30:57" >
+		<gamePage><![CDATA[juegos/jet_cat_al_extremo/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_51_fcba.jpg]]></imageS>
+		<name><![CDATA[JET CAT AL EXTREMO]]></name>
+		<lead><![CDATA[¡Ayuda a Jet Cat!]]></lead>
+		<description><![CDATA[¡Ayuda a Jet Cat!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="59" featured="1" popular="0" order="33" code="aqua_mono" createDate="2012-01-04 15:58:15" >
+		<gamePage><![CDATA[juegos/aqua_mono/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_59_7ffa.jpg]]></imageS>
+		<name><![CDATA[AQUA MONO]]></name>
+		<lead><![CDATA[Diviértete bajo el agua.]]></lead>
+		<description><![CDATA[Diviértete bajo el agua.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="39" featured="1" popular="1" order="34" code="ZEKE&LUTHER_Reyes_del_Skate" createDate="2010-02-09 10:55:04" >
+		<gamePage><![CDATA[juegos/zeke_luther_reyes_del_skate/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_39_981b.jpg]]></imageS>
+		<name><![CDATA[REYES DEL SKATE]]></name>
+		<lead><![CDATA[¡Torneo de skate en la ciudad!]]></lead>
+		<description><![CDATA[¡Torneo de skate en la ciudad!]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="38" featured="1" popular="1" order="35" code="phineasandferb_cowabungacandance" createDate="2010-02-09 10:16:14" >
+		<gamePage><![CDATA[juegos/phineasandferb_cowabungacandance/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_38_5abb.jpg]]></imageS>
+		<name><![CDATA[COWABUNGA CANDACE]]></name>
+		<lead><![CDATA[COWABUNGA CANDANCE]]></lead>
+		<description><![CDATA[¡Todos a surfear!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="67" featured="1" popular="0" order="35" code="hoverboard_tour" createDate="2012-01-13 10:00:34" >
+		<gamePage><![CDATA[juegos/hoverboard_tour/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_67_4f1b.jpg]]></imageS>
+		<name><![CDATA[Campeonato del Mundo de Skate Volador]]></name>
+		<lead><![CDATA[Campeonato de Skate ]]></lead>
+		<description><![CDATA[Campeonato de Skate ]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="23" featured="1" popular="1" order="37" code="CopaDisney_Defensa" createDate="2010-02-09 10:34:05" >
+		<gamePage><![CDATA[copadisney-defensa.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_23_12f5.jpg]]></imageS>
+		<name><![CDATA[DEFENSA]]></name>
+		<lead><![CDATA[Copa Disney]]></lead>
+		<description><![CDATA[Copa Disney]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="70" featured="1" popular="0" order="37" code="delirio_felino_la" createDate="2012-01-04 15:57:35" >
+		<gamePage><![CDATA[juegos/delirio_felino_la/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_70_a7f2.jpg]]></imageS>
+		<name><![CDATA[Delirio Felino]]></name>
+		<lead><![CDATA[Recupera el cómic que te han robado.]]></lead>
+		<description><![CDATA[Recupera el cómic que te han robado.]]></description>
+		<shows>
+			<show ID="8" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="72" featured="1" popular="0" order="38" code="el_escape_de_garu" createDate="2012-01-04 15:57:25" >
+		<gamePage><![CDATA[juegos/el_escape_de_garu/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_72_d15c.jpg]]></imageS>
+		<name><![CDATA[El escape de Garu]]></name>
+		<lead><![CDATA[¡Juega con Garu y escapa de Pucca!]]></lead>
+		<description><![CDATA[¡Juega con Garu y escapa de Pucca!]]></description>
+		<shows>
+			<show ID="5" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="74" featured="1" popular="0" order="38" code="aprendiz_la" createDate="2012-01-04 15:57:07" >
+		<gamePage><![CDATA[juegos/aprendiz_la/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_74_3a00.jpg]]></imageS>
+		<name><![CDATA[Misil de Plasma]]></name>
+		<lead><![CDATA[Juega al desafío del misil de plasma.]]></lead>
+		<description><![CDATA[Juega al desafío del misil de plasma.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="19" featured="1" popular="1" order="39" code="Pucca_SuperSooga" createDate="2012-01-13 10:06:41" >
+		<gamePage><![CDATA[juegos/pucca_supersooga/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_19_9f26.jpg]]></imageS>
+		<name><![CDATA[SÚPER SOOGA ]]></name>
+		<lead><![CDATA[¡Preparados, listos, juega!]]></lead>
+		<description><![CDATA[¡Preparados, listos, juega!]]></description>
+		<shows>
+			<show ID="5" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="75" featured="1" popular="0" order="39" code="maraña_de_mentes_la" createDate="2012-01-04 15:56:58" >
+		<gamePage><![CDATA[juegos/mara_a_de_mentes_la/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_75_d49f.jpg]]></imageS>
+		<name><![CDATA[MARAÑA DE MENTES]]></name>
+		<lead><![CDATA[¡Iron Weasel regresa de gira!]]></lead>
+		<description><![CDATA[¡Iron Weasel regresa de gira!]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="10" featured="1" popular="0" order="40" code="PadrinosMagicos_TravesiaRodante" createDate="2010-02-09 10:37:53" >
+		<gamePage><![CDATA[travesiarodante.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_10_ebda.jpg]]></imageS>
+		<name><![CDATA[TRAVESíA RODANTE]]></name>
+		<lead><![CDATA[TRAVESíA RODANTE]]></lead>
+		<description><![CDATA[Recorre las pistas más extremas.]]></description>
+		<shows>
+			<show ID="16" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="78" featured="1" popular="0" order="40" code="recorrido_de_prueba" createDate="2012-01-04 15:56:41" >
+		<gamePage><![CDATA[juegos/recorrido_de_prueba/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_78_3993.jpg]]></imageS>
+		<name><![CDATA[RECORRIDO DE PRUEBA]]></name>
+		<lead><![CDATA[¡Arroja al capitán para ver qué pasa!]]></lead>
+		<description><![CDATA[¡Arroja al capitán para ver qué pasa!]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="92" featured="1" popular="0" order="40" code="motin_a_bordo" createDate="2012-01-04 15:28:45" >
+		<gamePage><![CDATA[juegos/motin_a_bordo/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_92_6551.jpg]]></imageS>
+		<name><![CDATA[MOTÍN A BORDO]]></name>
+		<lead><![CDATA[En mareas misteriosas.]]></lead>
+		<description><![CDATA[En mareas misteriosas.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="21" featured="1" popular="0" order="41" code="CopaDisney_LaMurallaDelGol" createDate="2010-02-09 10:38:16" >
+		<gamePage><![CDATA[juegos/copadisney_lamuralladelgol/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_21_0811.jpg]]></imageS>
+		<name><![CDATA[LA MURALLA DEL GOL]]></name>
+		<lead><![CDATA[Copa Disney]]></lead>
+		<description><![CDATA[Copa Disney]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="80" featured="1" popular="0" order="41" code="escape_de_la_guarderia" createDate="2012-01-04 15:56:22" >
+		<gamePage><![CDATA[juegos/escape_de_la_guarderia/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_80_f87c.jpg]]></imageS>
+		<name><![CDATA[EL ESCAPE DE LA GUARDERÍA]]></name>
+		<lead><![CDATA[¡Ayuda a sus amigos!]]></lead>
+		<description><![CDATA[¡Ayuda a sus amigos!]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="81" featured="1" popular="0" order="43" code="ataque_a_la_ciudad" createDate="2012-01-04 15:55:58" >
+		<gamePage><![CDATA[juegos/ataque_a_la_ciudad/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_81_4d0c.jpg]]></imageS>
+		<name><![CDATA[ATAQUE A LA CIUDAD]]></name>
+		<lead><![CDATA[Defiende la ciudad.]]></lead>
+		<description><![CDATA[Defiende la ciudad.]]></description>
+		<shows>
+			<show ID="40" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="9" featured="1" popular="0" order="44" code="PadrinosMagicos_MemoriaMagica" createDate="2012-01-12 09:50:09" >
+		<gamePage><![CDATA[juegos/padrinosmagicos_memoriamagica/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_9_6cc4.jpg]]></imageS>
+		<name><![CDATA[MEMORIA MÁGICA]]></name>
+		<lead><![CDATA[¿Cuán bien los conoces?]]></lead>
+		<description><![CDATA[¿Cuán bien los conoces?]]></description>
+		<shows>
+			<show ID="16" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="82" featured="1" popular="0" order="45" code="caos_en_la_isla" createDate="2012-01-04 15:55:41" >
+		<gamePage><![CDATA[juegos/caos_en_la_isla/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_82_f6d4.jpg]]></imageS>
+		<name><![CDATA[CAOS EN LA ISLA]]></name>
+		<lead><![CDATA[Súmate a la aventura]]></lead>
+		<description><![CDATA[Súmate a la aventura]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="13" featured="1" popular="0" order="46" code="PowerRangers_DinoRescate" createDate="2011-12-21 15:58:55" >
+		<gamePage><![CDATA[juegos/powerrangers_dinorescate/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_13_3860.jpg]]></imageS>
+		<name><![CDATA[DINO RESCATE]]></name>
+		<lead><![CDATA[DINO RESCATE]]></lead>
+		<description><![CDATA[Ayuda a rescatar a Tommy]]></description>
+		<shows>
+		</shows>
+		<genres>
+		</genres>
+	</game>
+	<game ID="83" featured="1" popular="0" order="46" code="destruccion_enemiga" createDate="2012-01-04 15:55:26" >
+		<gamePage><![CDATA[juegos/destruccion_enemiga/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_83_f8c9.jpg]]></imageS>
+		<name><![CDATA[DESTRUCCIÓN ENEMIGA]]></name>
+		<lead><![CDATA[Únete al equipo para ganar.]]></lead>
+		<description><![CDATA[Únete al equipo para ganar.]]></description>
+		<shows>
+			<show ID="40" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="84" featured="1" popular="0" order="47" code="pistas_de_velocidad" createDate="2012-01-04 15:55:17" >
+		<gamePage><![CDATA[juegos/pistas_de_velocidad/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_84_40a6.jpg]]></imageS>
+		<name><![CDATA[PISTAS DE VELOCIDAD]]></name>
+		<lead><![CDATA[Diseña tu competencia.]]></lead>
+		<description><![CDATA[Diseña tu competencia.]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="85" featured="1" popular="0" order="48" code="moto_de_luz_latam" createDate="2012-01-04 15:55:04" >
+		<gamePage><![CDATA[juegos/moto_de_luz_latam/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_85_492b.jpg]]></imageS>
+		<name><![CDATA[MOTO DE LUZ]]></name>
+		<lead><![CDATA[Juega con la moto de luz.]]></lead>
+		<description><![CDATA[Juega con la moto de luz.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="63" featured="1" popular="0" order="49" code="jam_session" createDate="2012-01-04 15:54:29" >
+		<gamePage><![CDATA[juegos/jam_session/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_63_a4b6.jpg]]></imageS>
+		<name><![CDATA[JAM SESSION]]></name>
+		<lead><![CDATA[¿Quieres ser una estrella de rock?]]></lead>
+		<description><![CDATA[¿Quieres ser una estrella de rock?]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="43" featured="1" popular="0" order="50" code="gforce" createDate="2012-01-12 09:55:00" >
+		<gamePage><![CDATA[juegos/gforce/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_43_b8f3.jpg]]></imageS>
+		<name><![CDATA[SIMULADOR DE VUELO DE MOOCH]]></name>
+		<lead><![CDATA[Simulador de vuelo de Mooch]]></lead>
+		<description><![CDATA[Simulador de vuelo de Mooch]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="86" featured="1" popular="0" order="50" code="la_defensa_de_asgard" createDate="2012-01-04 15:54:17" >
+		<gamePage><![CDATA[juegos/la_defensa_de_asgard/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_86_81d9.jpg]]></imageS>
+		<name><![CDATA[LA DEFENSA DE ASGARD]]></name>
+		<lead><![CDATA[Salva a Asgard con Thor.]]></lead>
+		<description><![CDATA[Salva a Asgard con Thor.]]></description>
+		<shows>
+			<show ID="40" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="57" featured="1" popular="0" order="51" code="carrera_de_donas" createDate="2012-01-04 15:54:09" >
+		<gamePage><![CDATA[juegos/carrera_de_donas/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_57_b2c0.jpg]]></imageS>
+		<name><![CDATA[CARRERA DE DONAS]]></name>
+		<lead><![CDATA[Juega con Zeke y Luther]]></lead>
+		<description><![CDATA[Juega con Zeke y Luther]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="88" featured="1" popular="0" order="53" code="desafio_trucos_2" createDate="2012-01-04 15:54:01" >
+		<gamePage><![CDATA[juegos/desafio_trucos_2/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_88_5e94.jpg]]></imageS>
+		<name><![CDATA[DESAFÍO DE TRUCOS 2]]></name>
+		<lead><![CDATA[Desafío skater.]]></lead>
+		<description><![CDATA[Desafío skater.]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="87" featured="1" popular="0" order="54" code="creador_de_videos" createDate="2012-01-04 15:53:50" >
+		<gamePage><![CDATA[juegos/creador_de_videos/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_87_c549.jpg]]></imageS>
+		<name><![CDATA[CREADOR DE VIDEOS MUSICALES]]></name>
+		<lead><![CDATA[Crea tu videoclip]]></lead>
+		<description><![CDATA[Crea tu videoclip]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="89" featured="1" popular="0" order="55" code="transportinadores" createDate="2012-03-02 08:14:28" >
+		<gamePage><![CDATA[juegos/transportinadores/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_89_c191.jpg]]></imageS>
+		<name><![CDATA[TRANSPORTINA- DORES]]></name>
+		<lead><![CDATA[¡Encuentra a Phineas!]]></lead>
+		<description><![CDATA[¡Encuentra a Phineas!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="93" featured="1" popular="0" order="63" code="choques_acrobaticos" createDate="2012-03-28 15:29:18" >
+		<gamePage><![CDATA[juegos/choques_acrobaticos/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_93_ffcf.jpg]]></imageS>
+		<name><![CDATA[Choques Acrobáticos]]></name>
+		<lead><![CDATA[Riesgo al volante.]]></lead>
+		<description><![CDATA[Riesgo al volante.]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="95" featured="1" popular="0" order="64" code="world_grand_prix" createDate="2012-01-04 15:52:01" >
+		<gamePage><![CDATA[juegos/world_grand_prix/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_95_f0cb.jpg]]></imageS>
+		<name><![CDATA[WORLD GRAND PRIX]]></name>
+		<lead><![CDATA[Enciende tu motor y juega.]]></lead>
+		<description><![CDATA[Enciende tu motor y juega.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="96" featured="1" popular="0" order="65" code="jam_session_pp" createDate="2012-01-04 15:51:54" >
+		<gamePage><![CDATA[juegos/jam_session_pp/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_96_6cfc.jpg]]></imageS>
+		<name><![CDATA[JAM SESSION - PETER PUNK]]></name>
+		<lead><![CDATA[Rockea con Peter Punk.]]></lead>
+		<description><![CDATA[Rockea con Peter Punk.]]></description>
+		<shows>
+			<show ID="43" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="94" featured="1" popular="0" order="67" code="disena_tu_auto" createDate="2012-01-12 09:48:16" >
+		<gamePage><![CDATA[juegos/disena_tu_auto/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_94_89d9.jpg]]></imageS>
+		<name><![CDATA[Diseña tu auto]]></name>
+		<lead><![CDATA[Diseña y crea.]]></lead>
+		<description><![CDATA[Diseña y crea.]]></description>
+		<shows>
+			<show ID="27" />
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+	<game ID="71" featured="1" popular="0" order="68" code="moletropolis_la" createDate="2012-03-02 08:13:52" >
+		<gamePage><![CDATA[moletropolis.html]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_71_30a1.jpg]]></imageS>
+		<name><![CDATA[Moletrópolis]]></name>
+		<lead><![CDATA[¡Rescata a Candace!]]></lead>
+		<description><![CDATA[¡Rescata a Candace!]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="101" featured="0" popular="0" order="70" code="alboroto-roboto" createDate="2012-01-04 15:50:50" >
+		<gamePage><![CDATA[juegos/alboroto_roboto/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_101_cec3.jpg]]></imageS>
+		<name><![CDATA[ALBOROTO ROBOTO]]></name>
+		<lead><![CDATA[Juega con tu agente secreto favorito]]></lead>
+		<description><![CDATA[Juega con tu agente secreto favorito]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+			<genre ID="2" />
+		</genres>
+	</game>
+	<game ID="56" featured="1" popular="0" order="71" code="concierto_caotico" createDate="2012-01-04 15:50:43" >
+		<gamePage><![CDATA[juegos/concierto_caotico/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_56_129f.jpg]]></imageS>
+		<name><![CDATA[CONCIERTO CAÓTICO]]></name>
+		<lead><![CDATA[Conviértete en un Iron Weasel.]]></lead>
+		<description><![CDATA[Conviértete en un Iron Weasel.]]></description>
+		<shows>
+			<show ID="34" />
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="64" featured="1" popular="0" order="72" code="dxd-definicion-por-penales" createDate="2012-01-04 15:50:30" >
+		<gamePage><![CDATA[juegos/dxd_definicion_por_penales/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_64_3216.jpg]]></imageS>
+		<name><![CDATA[DEFINICIÓN POR PENALES]]></name>
+		<lead><![CDATA[¿Estás preparado para el desafío?
+]]></lead>
+		<description><![CDATA[¿Estás preparado para el desafío?
+]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="103" featured="0" popular="0" order="74" code="dimension_desconocida" createDate="2012-01-04 15:50:21" >
+		<gamePage><![CDATA[juegos/dimension_desconocida/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/1/images_103_370d.jpg]]></imageS>
+		<name><![CDATA[DIMENSIÓN DESCONOCIDA]]></name>
+		<lead><![CDATA[Entra y ayuda a los chicos]]></lead>
+		<description><![CDATA[Entra y ayuda a los chicos]]></description>
+		<shows>
+			<show ID="6" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="99" featured="1" popular="0" order="75" code="competencia_de_surf" createDate="2012-01-04 15:50:10" >
+		<gamePage><![CDATA[juegos/competencia_de_surf/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_99_8fe7.jpg]]></imageS>
+		<name><![CDATA[SÚPER COMPETENCIA DE SURF]]></name>
+		<lead><![CDATA[Competencia real.]]></lead>
+		<description><![CDATA[Competencia real.]]></description>
+		<shows>
+			<show ID="41" />
+		</shows>
+		<genres>
+			<genre ID="6" />
+		</genres>
+	</game>
+	<game ID="77" featured="1" popular="0" order="82" code="tron_arcade" createDate="2012-01-04 15:49:00" >
+		<gamePage><![CDATA[juegos/tron_arcade/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_77_7567.jpg]]></imageS>
+		<name><![CDATA[TRON CLÁSICO]]></name>
+		<lead><![CDATA[Revive TRON clásico.]]></lead>
+		<description><![CDATA[Revive TRON clásico.]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="54" featured="1" popular="0" order="84" code="los_fuegos_artificiales" createDate="2012-01-04 15:48:42" >
+		<gamePage><![CDATA[juegos/los_fuegos_artificiales/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_54_ce7b.jpg]]></imageS>
+		<name><![CDATA[FUEGOS ARTIFICIALES]]></name>
+		<lead><![CDATA[Diviértete con los fuegos artificiales]]></lead>
+		<description><![CDATA[Diviértete con los fuegos artificiales]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="9" />
+		</genres>
+	</game>
+	<game ID="73" featured="1" popular="0" order="86" code="carrera_la" createDate="2012-03-28 15:32:31" >
+		<gamePage><![CDATA[juegos/carrera_la/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_73_8903.jpg]]></imageS>
+		<name><![CDATA[Mega Carrera de Mellowbrook ]]></name>
+		<lead><![CDATA[¡Pon a prueba tu destreza!]]></lead>
+		<description><![CDATA[¡Pon a prueba tu destreza!]]></description>
+		<shows>
+			<show ID="37" />
+		</shows>
+		<genres>
+			<genre ID="1" />
+		</genres>
+	</game>
+	<game ID="62" featured="1" popular="0" order="90" code="el_poder_de_las_cartas" createDate="2012-01-04 15:46:26" >
+		<gamePage><![CDATA[juegos/el_poder_de_las_cartas/]]></gamePage>
+		<imageS><![CDATA[dynassets/game/0/images_62_1e7e.jpg]]></imageS>
+		<name><![CDATA[LAS AVENTURAS DE MERLÍN]]></name>
+		<lead><![CDATA[El poder de las cartas]]></lead>
+		<description><![CDATA[El poder de las cartas]]></description>
+		<shows>
+		</shows>
+		<genres>
+			<genre ID="8" />
+		</genres>
+	</game>
+</games>

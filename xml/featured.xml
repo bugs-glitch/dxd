@@ -1,0 +1,607 @@
+<featured>
+<position id="HOME_XD">
+<item id="1135">
+<title>
+<![CDATA[ Lab Rats ]]>
+</title>
+<description>
+<![CDATA[
+NUEVA SERIE ¿Quiénes se esconden en el sótano de Leo? ¡Entérate!
+]]>
+</description>
+<linkURL>
+<![CDATA[ series/lab_rats/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1135_2c5e.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1148">
+<title>
+<![CDATA[ Los Guerreros Wasabi ]]>
+</title>
+<description>
+<![CDATA[ ¿Eres un verdadero guerrero Wasabi? ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/dodge_dojo/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1148_2456.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1149">
+<title>
+<![CDATA[ Pok & Mok ]]>
+</title>
+<description>
+<![CDATA[
+NUEVA SERIE Hay mascotas divertidas y hay mascotas MUY divertidas ¡Conoce a Pok!
+]]>
+</description>
+<linkURL>
+<![CDATA[ series/pok_y_mok/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1149_e5c3.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_BANNER_BOTTOM">
+<item id="1136">
+<title>
+<![CDATA[ Lab Rats ]]>
+</title>
+<description>
+<![CDATA[ ¡Conoce a los nuevos héroes! ]]>
+</description>
+<linkURL>
+<![CDATA[ :invalid: ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1136_d03a.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1151">
+<title>
+<![CDATA[ Pok & Mok ]]>
+</title>
+<description>
+<![CDATA[ ¡Disney XD tiene nueva mascota! ]]>
+</description>
+<linkURL>
+<![CDATA[ :invalid: ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1151_0a99.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1137">
+<title>
+<![CDATA[ Los Guerreros Wasabi ]]>
+</title>
+<description>
+<![CDATA[ NUEVOS EPISODIOS ¡Más acción wasabi! ]]>
+</description>
+<linkURL>
+<![CDATA[ :invalid: ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1137_d70d.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1138">
+<title>
+<![CDATA[ Kick Buttowski ]]>
+</title>
+<description>
+<![CDATA[ ¡Nuevos episodios arriesgados! ]]>
+</description>
+<linkURL>
+<![CDATA[ :invalid: ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1138_a931.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_PROMO2">
+<item id="1109">
+<title>
+<![CDATA[ Spiderman ]]>
+</title>
+<description>
+<![CDATA[ NUEVO JUEGO ¡Demuestra tu poder arácnido! ]]>
+</description>
+<linkURL>
+<![CDATA[ marveluniverse/juegos/sabotaje_cibernetico ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1109_5090.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_PROMO3">
+<item id="1160">
+<title>
+<![CDATA[ Kick Buttowski ]]>
+</title>
+<description>
+<![CDATA[ Tú eliges el recorrido ¡Arriésgate! ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/recorridos_de_riesgo/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1160_2ad5.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_GAME">
+<item id="1150">
+<title>
+<![CDATA[ kIck Buttowski ]]>
+</title>
+<description>
+<![CDATA[ ¿Listo para ganar? ]]>
+</description>
+<linkURL>
+<![CDATA[lacarreradelsiglo.html]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1150_6a1f.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_VIDEO">
+<item id="248">
+<title>
+<![CDATA[ Futbol ]]>
+</title>
+<description>
+<![CDATA[ ]]>
+</description>
+<linkURL>
+<![CDATA[ :invalid: ]]>
+</linkURL>
+<asset>
+<![CDATA[
+rtmp://flashstreaming.disneyinternational.com/ondemand/home_disneylatino_com/futbol_latam.flv
+]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_MAIN">
+<item id="1140">
+<title>
+<![CDATA[ Lab Rats ]]>
+</title>
+<description>
+<![CDATA[ Se necesitan poderes biónicos. ¿Los tienes? ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/heroicos_bionicos/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1140_ab6b.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1117">
+<title>
+<![CDATA[ Spiderman ]]>
+</title>
+<description>
+<![CDATA[ ¡Juega con Peter Parker! ]]>
+</description>
+<linkURL>
+<![CDATA[ marveluniverse/juegos/sabotaje_cibernetico ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1117_e4e8.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1152">
+<title>
+<![CDATA[ Par de Reyes ]]>
+</title>
+<description>
+<![CDATA[ Boomer, Brady y tú ¡Juega! ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/excavacion_real/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1152_7d33.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_S1">
+<item id="1141">
+<title>
+<![CDATA[ Peter Punk ]]>
+</title>
+<description>
+<![CDATA[ ¿Eres un fotógrafo realmente Punk? ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/foto_tour/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1141_5c0b.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_S2">
+<item id="1161">
+<title>
+<![CDATA[ Kick Buttowski ]]>
+</title>
+<description>
+<![CDATA[ Tú eliges el recorrido ¡Arriésgate! ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/recorridos_de_riesgo/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1161_a0b5.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_S3">
+<item id="1153">
+<title>
+<![CDATA[ Los Guerreros Wasabi ]]>
+</title>
+<description>
+<![CDATA[ ¿Eres un verdadero guerrero Wasabi? ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/dodge_dojo/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1153_b884.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_M1">
+<item id="1144">
+<title>
+<![CDATA[ Spiderman ]]>
+</title>
+<description>
+<![CDATA[ ¿Cuánto poder arácnido hay dentro de ti? ]]>
+</description>
+<linkURL>
+<![CDATA[ marveluniverse/juegos/sabotaje_cibernetico ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1144_4717.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_M2">
+<item id="1154">
+<title>
+<![CDATA[ Kick Buttowski ]]>
+</title>
+<description>
+<![CDATA[ Diversión extrema ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/loco_launcho_extreme/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1154_7f68.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="GAMES_M3">
+<item id="1155">
+<title>
+<![CDATA[ Los Guerreros Wasabi ]]>
+</title>
+<description>
+<![CDATA[ El estrellato te espera ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/combate_en_hollywood/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1155_dc2f.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="SHOWS_MAIN">
+<item id="1145">
+<title>
+<![CDATA[ Lab Rats ]]>
+</title>
+<description>
+<![CDATA[
+NUEVA SERIE Conoce a un trío biónico que te sorprenderá ¡Ellos son Adam, Bree y Chase!
+]]>
+</description>
+<linkURL>
+<![CDATA[ series/lab_rats/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1145_f9e5.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1156">
+<title>
+<![CDATA[ Los Guerreros Wasabi ]]>
+</title>
+<description>
+<![CDATA[
+Las artes marciales tienen nombre y apellido: ¡BOBBY WASABI!
+]]>
+</description>
+<linkURL>
+<![CDATA[ series/los_guerreros_wasabi/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1156_04db.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+<item id="1157">
+<title>
+<![CDATA[ Kick Buttowski ]]>
+</title>
+<description>
+<![CDATA[ Ser o no ser arriesgado... ¡Esa es la cuestión! ]]>
+</description>
+<linkURL>
+<![CDATA[ series/kick_buttowski/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1157_5bd4.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="SHOWS_M1">
+<item id="1146">
+<title>
+<![CDATA[ Spiderman ]]>
+</title>
+<description>
+<![CDATA[ El poder está en la telaraña ]]>
+</description>
+<linkURL>
+<![CDATA[ marveluniverse/series/ultimate_spiderman/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1146_1159.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="SHOWS_M2">
+<item id="1158">
+<title>
+<![CDATA[ Phineas y Ferb ]]>
+</title>
+<description>
+<![CDATA[ La imaginación es diversión ]]>
+</description>
+<linkURL>
+<![CDATA[ series/phineasyferb/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1158_5592.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="SHOWS_M3">
+<item id="1159">
+<title>
+<![CDATA[ The Avengers ]]>
+</title>
+<description>
+<![CDATA[ Poderosos y unidos ]]>
+</description>
+<linkURL>
+<![CDATA[ marveluniverse/series/the_avengers/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1159_1753.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_PROMO1">
+<item id="1132">
+<title>
+<![CDATA[ Peter Punk ]]>
+</title>
+<description>
+<![CDATA[
+¿Eres un fotógrafo realmente punk? ¡Juega y Demuéstralo!
+]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/foto_tour/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1132_ad15.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_HUD_TOP">
+<item id="1139">
+<title>
+<![CDATA[ Lab Rats ]]>
+</title>
+<description>
+<![CDATA[ ¡Juega con Leo, Adam, Bree y Chase! ]]>
+</description>
+<linkURL>
+<![CDATA[ juegos/heroicos_bionicos/ ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/11/graphicfile_1139_7419.png ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="HOME_HUD_DOWN">
+<item id="573">
+<title>
+<![CDATA[ Control-X 3ra etapa NOVIEMBRE ]]>
+</title>
+<description>
+<![CDATA[ ]]>
+</description>
+<linkURL>
+<![CDATA[ctrlx.html ]]>
+</linkURL>
+<asset>
+<![CDATA[swf/ui/controlXDestacado.swf ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _self ]]>
+</targetWindow>
+</item>
+</position>
+<position id="CONTEST_MAIN">
+<item id="929">
+<title>
+<![CDATA[ Concurso Punk Extremo ]]>
+</title>
+<description>
+<![CDATA[ Ganadores ]]>
+</description>
+<linkURL>
+<![CDATA[ ./series/peter_punk/concurso/punkextremo ]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/9/graphicfile_929_3804.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _blank ]]>
+</targetWindow>
+</item>
+<item id="812">
+<title>
+<![CDATA[ CONCURSO: Cars 2 ]]>
+</title>
+<description>
+<![CDATA[ ]]>
+</description>
+<linkURL>
+<![CDATA[
+http://www.disneylatino.com/cars/concurso/espiassobreruedas
+]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/8/graphicfile_812_d0da.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _blank ]]>
+</targetWindow>
+</item>
+<item id="785">
+<title>
+<![CDATA[ CONCURSO: Cars 2 ]]>
+</title>
+<description>
+<![CDATA[ ]]>
+</description>
+<linkURL>
+<![CDATA[
+http://www.disneylatino.com/piratasdelcaribe/concurso/piratasenaguasmisteriosas
+]]>
+</linkURL>
+<asset>
+<![CDATA[dynassets/featured/7/graphicfile_785_a40a.jpg ]]>
+</asset>
+<targetWindow>
+<![CDATA[ _blank ]]>
+</targetWindow>
+</item>
+</position>
+<position id="CONTEST_M1"></position>
+<position id="CONTEST_M2"></position>
+<position id="CONTEST_M3"></position>
+</featured>                                                                                                                                                        

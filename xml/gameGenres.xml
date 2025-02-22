@@ -1,0 +1,42 @@
+     <gameGenres>
+<genre ID="1" order="0">
+<name>
+<![CDATA[ Acción ]]>
+</name>
+<imageM>
+<![CDATA[dynassets/gamegenre/0/imagem_1_ea33.jpg ]]>
+</imageM>
+</genre>
+<genre ID="2" order="1">
+<name>
+<![CDATA[ Aventura ]]>
+</name>
+<imageM>
+<![CDATA[dynassets/gamegenre/0/imagem_2_5aa9.jpg ]]>
+</imageM>
+</genre>
+<genre ID="6" order="2">
+<name>
+<![CDATA[ Deportes ]]>
+</name>
+<imageM>
+<![CDATA[dynassets/gamegenre/0/imagem_6_225e.jpg ]]>
+</imageM>
+</genre>
+<genre ID="8" order="3">
+<name>
+<![CDATA[ Ingenio ]]>
+</name>
+<imageM>
+<![CDATA[dynassets/gamegenre/0/imagem_8_b12c.jpg ]]>
+</imageM>
+</genre>
+<genre ID="9" order="4">
+<name>
+<![CDATA[ Actividad ]]>
+</name>
+<imageM>
+<![CDATA[dynassets/gamegenre/0/imagem_9_df2f.jpg ]]>
+</imageM>
+</genre>
+</gameGenres>    

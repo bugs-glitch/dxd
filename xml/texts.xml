@@ -1,0 +1,87 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<showsScroll>
+<callToAction>Haz click aquí para conocer más sobre tus series favoritas.</callToAction>
+</showsScroll>
+<mainMenu>
+<button code="home">INICIO</button>
+<button code="games">JUEGOS</button>
+<button code="video">VIDEOS</button>
+<button code="shows">SERIES</button>
+<button code="contest">PARTICIPA</button>
+</mainMenu>
+<!-- <homeFilter>
+		<item code="featured">FEATURED</item>
+		<item code="latest">ULTIMO</item>
+		<item code="popular">POPULAR</item>
+		<item code="shows">SERIES</item>
+		<item code="all_games">TODOS</item>
+		<item code="more">espano</item>
+	</homeFilter> -->
+<bottomMenu>
+<!--  Es el que aparece en la home para filtrar los juegos  -->
+<item code="featured">FEATURED</item>
+<item code="latest">ÚLTIMO</item>
+<!--  //ULTIMO / POPULAR/ SERIES / TODOS  -->
+<item code="popular">FAVORITOS</item>
+<item code="shows">SERIES</item>
+<item code="videos">VIDEOS</item>
+<item code="all_games">TODOS</item>
+<item code="genre">GÉNERO</item>
+<item code="genres">GENROS</item>
+<item code="games">JUEGOS</item>
+<item code="more">espanol</item>
+<item code="downloads">DESCARGAS</item>
+<item code="mobile">MOBILE</item>
+</bottomMenu>
+<mainShowPage>
+<item code="wathsHot">Lo Cool</item>
+<item code="episodes">Personajes</item>
+<item code="galery">Galería</item>
+</mainShowPage>
+<scheduleShowScroll>
+<item code="wathson">
+<![CDATA[ estás viendo... ]]>
+</item>
+<item code="scheduleLink">
+<![CDATA[ <font size="9">PROGRAMACIÓN COMPLETA</font> ]]>
+</item>
+</scheduleShowScroll>
+<schedule>
+<blocks>
+<!-- <item code="0">Todo el día</item> -->
+<item code="1">Hoy</item>
+<item code="2">Hoy a la noche</item>
+<item code="3">Mañana</item>
+<item code="4">Mañana a la noche</item>
+<item code="-1">Ayer</item>
+<item code="-2">Ayer a la noche</item>
+</blocks>
+</schedule>
+<gamesSection>
+<item code="main_title">
+<![CDATA[ JUEGOS ]]>
+</item>
+</gamesSection>
+<showsSection>
+<item code="main_title">
+<![CDATA[ SERIES ]]>
+</item>
+<item code="play">
+<![CDATA[ IR ]]>
+</item>
+</showsSection>
+<pagination>
+<item code="back">ATRÁS</item>
+<item code="page">PÁGINA</item>
+<item code="of">DE</item>
+</pagination>
+<!--  A partir de ahora esto va dentro de ctrlx.xml
+	<ctrlx>
+		<item code="title">espanol</item>
+		<item code="vote">El 23 de enero a las 9:00 hs en CONTROL-X te enterarás que serie tiene las mejores luchas.</item>
+		<item code="novote">Ya has votado ¡Gracias!</item>
+		<item code="thanks">¡Tu votación ha sido enviada!</item>
+	</ctrlx>
+	 -->
+</data>

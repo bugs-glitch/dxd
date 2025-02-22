@@ -1,0 +1,82 @@
+<config>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<sections>
+<section code="home">
+<indexURL>./</indexURL>
+<gameFilter>
+<genre ID="1" default="true"/>
+<genre ID="2"/>
+<genre ID="9"/>
+<genre ID="6"/>
+<genre ID="8"/>
+</gameFilter>
+<categoryFilter>
+<category code="all_games"/>
+<category code="shows"/>
+<category code="popular"/>
+<category code="latest" default="true"/>
+<!-- <category code="featured"/> -->
+</categoryFilter>
+<defaultFilterImage>images/game_emptyImageS.jpg</defaultFilterImage>
+</section>
+<section code="games">
+<indexURL>juegos.html</indexURL>
+<allGamesFilter>
+<filter title="A-E" regexp="^[A-Ea-e0-9_ÁÉáéÇç]"/>
+<filter title="F-R" regexp="^[F-Rf-rÍíÑñÓó]"/>
+<filter title="S-Z" regexp="^[S-Zs-zÚúÜü]"/>
+</allGamesFilter>
+<bottomMenu>
+<filter code="latest" default="true"/>
+<filter code="popular"/>
+<filter code="shows"/>
+<filter code="genre"/>
+<filter code="all_games"/>
+</bottomMenu>
+</section>
+<section code="video">
+<indexURL>videos/</indexURL>
+</section>
+<section code="shows">
+<indexURL>series/</indexURL>
+<videoFilterURL>videos/</videoFilterURL>
+<bottomMenu>
+<filter code="shows" default="true"/>
+<!-- <filter code="videos"/> -->
+<filter code="games"/>
+</bottomMenu>
+</section>
+<section code="contest">
+<indexURL>participa/</indexURL>
+</section>
+<section code="show_page">
+<bottomMenu>
+<filter code="games" default="true"/>
+<!-- <filter code="videos"/>  -->
+<filter code="downloads"/>
+<filter code="mobile"/>
+</bottomMenu>
+</section>
+<section code="game_page">
+<bottomMenu>
+<filter code="latest" default="true"/>
+<filter code="popular"/>
+<filter code="shows"/>
+</bottomMenu>
+</section>
+</sections>
+<games>
+<numberOfLatestToShow>33</numberOfLatestToShow>
+</games>
+<scheduleShowScroll>
+<completeScheduleURL>programacion/</completeScheduleURL>
+</scheduleShowScroll>
+<currentTimeProvider>/disneyxd/cgi-bin/get_current_datetime_4_this_country.cgi</currentTimeProvider>
+<scheduleListProvider>http://www.disneytvpresspack.com/Programacion/_xml/1/${month}/${year}/${day}/programacion.xml</scheduleListProvider>
+<completeScheduleProvider>http://www.disneytvpresspack.com/Programacion/_xml/1/${month}/${year}/programacion.xml</completeScheduleProvider>
+<!-- 
+	<currentTimeProvider>xml/tmpdata/hour.xml</currentTimeProvider>
+	<scheduleListProvider>xml/tmpdata/schedule_${year}-${month}-${day}.xml</scheduleListProvider>
+	<completeScheduleProvider>xml/tmpdata/programacion_${year}_${month}.xml</completeScheduleProvider>
+	 -->
+</config>
